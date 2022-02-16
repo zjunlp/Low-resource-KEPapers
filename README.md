@@ -134,9 +134,11 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 ### Formulating KE as QA and MRC
 * A Unified MRC Framework for Named Entity Recognition (ACL 2020) [[paper]](https://aclanthology.org/2020.acl-main.519.pdf)
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
+* Entity-Relation Extraction as Multi-Turn Question Answering (ACL 2019) [[paper]](http://aclanthology.lst.uni-saarland.de/P19-1129.pdf)
+* Zero-Shot Relation Extraction via Reading Comprehension (CoNLL 2017) [[paper]](https://aclanthology.org/K17-1034.pdf)
+* Event Extraction as Machine Reading Comprehension (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.128.pdf)
+* Event Extraction by Answering (Almost) Natural Questions (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.49.pdf)
+* Learning to Ask for Data-Efficient Event Argument Extraction (AAAI 2022, Student Abstract) [[paper]](https://arxiv.org/abs/2110.00479)
 
 ### Retrieval Augmentation
 
