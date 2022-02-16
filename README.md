@@ -8,10 +8,11 @@ The repository is a paper set on low-resource knowledge extraction, which is cat
 
 <div id="1"></div>
 ## 1 Exploiting Higher-resource Data
+sss
 
 <div id="1.1"></div>
 ### 1.1 Weakly Supervised Augmentation
-
+sss
 
 
 ### 1.2 Multi-modal Augmentation
