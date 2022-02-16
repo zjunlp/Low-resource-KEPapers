@@ -14,7 +14,7 @@ The repository is a paper set on low-resource knowledge extraction, which is cat
   * [2.3 Prompt Learning](#Prompt-Learning)
 * [Exploiting Data and Models Together](#Exploiting-Data-and-Models-Together)
   * [3.1 Multi-task Learning](#Multi-task-Learning)
-  * [3.2 Formulating KE as QA/MRC](#Formulating-KE-as-QA/MRC)
+  * [3.2 Formulating KE as QA/MRC](#Formulating-KE-as-QA-and-MRC)
   * [3.3 Retrieval Augmentation](#Retrieval-Augmentation)
 
 ## 1 Exploiting Higher-resource Data
@@ -58,7 +58,7 @@ sss
 ### Multi-task Learning
 
 
-### Formulating KE as QA/MRC
+### Formulating KE as QA and MRC
 
 
 ### Retrieval Augmentation
