@@ -28,9 +28,9 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 ### Weakly Supervised Augmentation
 
 * Distant supervision for relation extraction without labeled data (ACL 2009) [[paper]](https://dl.acm.org/doi/pdf/10.5555/1690219.1690287)
-* BOND: BERT-Assisted Open-Domain Named Entity Recognition with Distant Supervision () [[paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403149)
-* () [[paper]]()
-* () [[paper]]()
+* BOND: BERT-Assisted Open-Domain Named Entity Recognition with Distant Supervision (KDD 2020) [[paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403149)
+* Automatically Labeled Data Generation for Large Scale Event Extraction (ACL 2017) [[paper]](https://aclanthology.org/P17-1038.pdf)
+* Gradient Imitation Reinforcement Learning for Low Resource Relation Extraction (EMNLP 2021) [[paper]](https://aclanthology.org/2021.emnlp-main.216.pdf)
 
 
 ### Multi-modal Augmentation
