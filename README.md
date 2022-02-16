@@ -1,6 +1,6 @@
 # Low-resource Knowledge Extraction 
 
-The repository is a paper set on low-resource knowledge extraction, which is categorized into three paradigms. 
+The repository is a paper set on low-resource knowledge extraction (NER, RE, EE), which is categorized into three paradigms. 
 
 ## Content
 * [1 Exploiting Higher-resource Data](#1-Exploiting-Higher-resource-Data)
@@ -100,21 +100,92 @@ The repository is a paper set on low-resource knowledge extraction, which is cat
 
 ### Meta Learning
 
+#### For Low-resource NER
+* []()
+* []()
+* []()
+* []()
+* []()
 
+#### For Low-resource RE
+* []()
+* []()
+* []()
+* []()
+* []()
+
+#### For Low-resource EE
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Transfer Learning
 
+#### Class-related Semantics
+* []()
+* []()
+* []()
+* []()
+* []()
+
+#### Pre-trained Language Representations
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 ### Prompt Learning
 
+#### Vanilla Prompt Learning
+* []()
+* []()
+* []()
+* []()
+* []()
 
+#### Augmented Prompt Learning
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 ## 3 Exploiting Data and Models Together
 
 ### Multi-task Learning
 
+#### NER, named entity normalization
+* []()
+* []()
+* []()
+* []()
+* []()
+
+#### NER, RE
+* []()
+* []()
+* []()
+* []()
+* []()
+
+#### NER, RE, EE
+* []()
+* []()
+* []()
+* []()
+* []()
+
+#### word sense disambiguation (WSD), event detection (ED)
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Formulating KE as QA and MRC
 
