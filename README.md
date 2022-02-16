@@ -1,8 +1,9 @@
+@[TOC]Content
+
+
 # Low-resource Knowledge Extraction 
 
 The repository is a paper set on low-resource knowledge extraction, which is categorized into three paradigms. 
-
-@[TOC]Content
 
 
 ## 1 Exploiting Higher-resource Data
