@@ -143,6 +143,7 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 * Adaptive Semiparametric Language Models (TACL, 2021) [[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00371/100688/Adaptive-Semiparametric-Language-Models)
 * BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA (EMNLP 2020 finding) [[paper]](https://aclanthology.org/2020.findings-emnlp.307.pdf)
 * Efficient Nearest Neighbor Language Models (EMNLP 2021) [[paper]](https://aclanthology.org/2021.emnlp-main.461.pdf)
+* End-to-End Training of Multi-Document Reader and Retriever for Open-Domain Question Answering (NeurIPS 2021) [[paper]](https://openreview.net/forum?id=5KWmB6JePx)
 * Improving Language Models by Retrieving from Trillions of Tokens (2021) [[paper]](https://arxiv.org/abs/2112.04426)
 
 
