@@ -26,7 +26,7 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 
 ### Weakly Supervised Augmentation
-* Distant Supervision for Relation Extraction without Labeled Data (ACL 2009) [[paper]](https://dl.acm.org/doi/pdf/10.5555/1690219.1690287)
+* Distant Supervision for Relation Extraction without Labeled Data (ACL 2009) [[paper]](https://aclanthology.org/P09-1113.pdf)
 * BOND: BERT-Assisted Open-Domain Named Entity Recognition with Distant Supervision (KDD 2020) [[paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403149)
 * Automatically Labeled Data Generation for Large Scale Event Extraction (ACL 2017) [[paper]](https://aclanthology.org/P17-1038.pdf)
 * Gradient Imitation Reinforcement Learning for Low Resource Relation Extraction (EMNLP 2021) [[paper]](https://aclanthology.org/2021.emnlp-main.216.pdf)
@@ -48,7 +48,7 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 ### Auxiliary Knowledge Enhancement
 #### Text
 * Improving Event Detection via Open-domain Trigger Knowledge (ACL 2020) [[paper]](https://aclanthology.org/2020.acl-main.522.pdf)
-
+* MapRE: An Effective Semantic Mapping Approach for Low-resource Relation Extraction (EMNLP 2021) [[paper]](https://aclanthology.org/2021.emnlp-main.212.pdf)
 
 #### KG
 * DOZEN: Cross-Domain Zero Shot Named Entity Recognition with Knowledge Graph (SIGIR 2021) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3463113)
@@ -100,7 +100,6 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 #### Vanilla Prompt Learning
 * Template-Based Named Entity Recognition Using BART (ACL 2021) [[paper]](https://aclanthology.org/2021.findings-acl.161.pdf)
 * LightNER: A Lightweight Generative Framework with Prompt-guided Attention for Low-resource NER (2021) [[paper]](https://arxiv.org/abs/2109.00720)
-* PTR: Prompt Tuning with Rules for Text Classification () [[paper]]()
 
 
 #### Augmented Prompt Learning
@@ -115,31 +114,26 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 ### Multi-task Learning
 
 #### NER, named entity normalization
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
+* A Neural Multi-Task Learning Framework to Jointly Model Medical Named Entity Recognition and Normalization (AAAI 2019) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/3861)
+* MTAAL: Multi-Task Adversarial Active Learning for Medical Named Entity Recognition and Normalization (AAAI 2021) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17714)
+* An End-to-End Progressive Multi-Task Learning Framework for Medical Named Entity Recognition and Normalization (ACL 2021) [[paper]](https://aclanthology.org/2021.acl-long.485.pdf)
+
 
 #### NER, RE
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
+* GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction (ACL 2019) [[paper]](https://aclanthology.org/P19-1136.pdf)
+* CopyMTL: Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning (AAAI 2020) [[paper]](https://arxiv.org/abs/1911.10438)
+* Joint Entity and Relation Extraction Model based on Rich Semantics (Neurocomputing, 2021) [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231220319378?casa_token=jzgLW9J1UKoAAAAA:5vnqqGKt0_-ykbhTp15Bq8mB-8B50cM3LDa10q2h8yc4q4AJVfeEbQV_fyMo2Z92xjl3HPNt6w)
+
 
 #### NER, RE, EE
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
+* Entity, Relation, and Event Extraction with Contextualized Span Representations (EMNLP 2019) [[paper]](https://aclanthology.org/D19-1585.pdf)
+
 
 #### word sense disambiguation (WSD), event detection (ED)
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
+* Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching (EMNLP 2018) [[paper]](https://aclanthology.org/D18-1517.pdf)
 
 ### Formulating KE as QA and MRC
-* () [[paper]]()
+* A Unified MRC Framework for Named Entity Recognition (ACL 2020) [[paper]](https://aclanthology.org/2020.acl-main.519.pdf)
 * () [[paper]]()
 * () [[paper]]()
 * () [[paper]]()
