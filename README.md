@@ -18,24 +18,82 @@ The repository is a paper set on low-resource knowledge extraction, which is cat
   * [3.3 Retrieval Augmentation](#Retrieval-Augmentation)
 
 ## 1 Exploiting Higher-resource Data
-sss
+
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Weakly Supervised Augmentation
-sss
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 ### Multi-modal Augmentation
-
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 ### Multi-lingual Augmentation
-
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 ### Auxiliary Knowledge Enhancement
+#### Text
+* []()
+* []()
+* []()
+* []()
+* []()
 
+#### KG
+* []()
+* []()
+* []()
+* []()
+* []()
 
-
+#### Ontology & Rule
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 ## 2 Exploiting Stronger Models
