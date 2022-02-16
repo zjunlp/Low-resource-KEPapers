@@ -6,9 +6,10 @@ The repository is a paper set on low-resource knowledge extraction, which is cat
 [1 Exploiting Higher-resource Data](#1)
 [1.1 Weakly Supervised Augmentation](#1.1)
 
-<div>1</div>
+<div id="1"></div>
 ## 1 Exploiting Higher-resource Data
-<div>1.1</div>
+
+<div id="1.1"></div>
 ### 1.1 Weakly Supervised Augmentation
 
 
