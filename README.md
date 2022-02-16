@@ -19,11 +19,6 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 ## 1 Exploiting Higher-resource Data
 
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
-
 
 ### Weakly Supervised Augmentation
 * Distant Supervision for Relation Extraction without Labeled Data (ACL 2009) [[paper]](https://aclanthology.org/P09-1113.pdf)
@@ -143,14 +138,15 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 ### Retrieval Augmentation
 
 #### Retrieval-based Language Models
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
+* Generalization through Memorization: Nearest Neighbor Language Models (ICLR 2020) [[paper]](https://openreview.net/forum?id=HklBjCEKvH)
+* Retrieval Augmented Language Model Pre-Training (ICML 2020) [[paper]](http://proceedings.mlr.press/v119/guu20a.html)
+* Adaptive Semiparametric Language Models (TACL, 2021) [[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00371/100688/Adaptive-Semiparametric-Language-Models)
+* BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA (EMNLP 2020 finding) [[paper]](https://aclanthology.org/2020.findings-emnlp.307.pdf)
+* Efficient Nearest Neighbor Language Models (EMNLP 2021) [[paper]](https://aclanthology.org/2021.emnlp-main.461.pdf)
+* Improving Language Models by Retrieving from Trillions of Tokens (2021) [[paper]](https://arxiv.org/abs/2112.04426)
+
 
 #### Few-shot Settings
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
+* Few-shot Intent Classification and Slot Filling with Retrieved Examples (NAACL 2021) [[paper]](https://aclanthology.org/2021.naacl-main.59.pdf)
+* KNN-BERT: Fine-Tuning Pre-Trained Models with KNN Classifier (2021) [[paper]](https://openreview.net/pdf?id=BecjRxs-lY5)
 
