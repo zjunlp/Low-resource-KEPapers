@@ -1,13 +1,14 @@
-@[TOC]Content
-
-
 # Low-resource Knowledge Extraction 
 
 The repository is a paper set on low-resource knowledge extraction, which is categorized into three paradigms. 
 
+## Content
+[1 Exploiting Higher-resource Data](#1)
+[1.1 Weakly Supervised Augmentation](#1.1)
 
+<div>1</div>
 ## 1 Exploiting Higher-resource Data
-
+<div>1.1</div>
 ### 1.1 Weakly Supervised Augmentation
 
 
