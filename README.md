@@ -47,21 +47,18 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 ### Auxiliary Knowledge Enhancement
 #### Text
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
+* Improving Event Detection via Open-domain Trigger Knowledge (ACL 2020) [[paper]](https://aclanthology.org/2020.acl-main.522.pdf)
 * () [[paper]]()
 
 #### KG
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
+* DOZEN: Cross-Domain Zero Shot Named Entity Recognition with Knowledge Graph (SIGIR 2021) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3463113)
+* Leveraging FrameNet to Improve Automatic Event Detection (ACL 2016) [[paper]](https://aclanthology.org/P16-1201.pdf)
 * () [[paper]]()
 
 #### Ontology & Rule
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
+* Logic-guided Semantic Representation Learning for Zero-Shot Relation Classification (COLING 2020) [[paper]](https://aclanthology.org/2020.coling-main.265.pdf)
+* OntoED: Low-resource Event Detection with Ontology Embedding (ACL 2021) [[paper]](https://aclanthology.org/2021.acl-long.220.pdf)
+* Low-resource Extraction with Knowledge-aware Pairwise Prototype Learning (Knowledge-Based Systems, 2022) [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705121008467)
 * () [[paper]]()
 
 
