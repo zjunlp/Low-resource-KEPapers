@@ -7,7 +7,7 @@ The repository is a paper set on low-resource knowledge extraction, which is cat
 [TOC]
 
 
-## 1 Exploiting Higher-resource Data
+## @[toc](1 Exploiting Higher-resource Data)
 
 ### 1.1 Weakly Supervised Augmentation
 
