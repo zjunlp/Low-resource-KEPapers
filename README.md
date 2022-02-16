@@ -72,6 +72,8 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 #### For Low-resource RE
 * Few-shot Relation Extraction via Bayesian Meta-learning on Relation Graphs (ICML 2020) [[paper]](http://proceedings.mlr.press/v119/qu20a/qu20a.pdf)
+* Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification (AAAI 2019) [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/4604)
+* Enhanced Meta-Learning for Cross-Lingual Named Entity Recognition with Minimal Resources (AAAI 2020) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6466)
 
 
 #### For Low-resource EE
@@ -88,6 +90,7 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 #### Pre-trained Language Representations
 * Matching the Blanks: Distributional Similarity for Relation Learning (ACL 2019) [[paper]](https://aclanthology.org/P19-1279.pdf)
+* Exploring Pre-trained Language Models for Event Extraction and Generation (ACL 2019) [[paper]](https://aclanthology.org/P19-1522.pdf)
 * Coarse-to-Fine Pre-training for Named Entity Recognition (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.514.pdf)
 * CLEVE: Contrastive Pre-training for Event Extraction (ACL 2021) [[paper]](https://aclanthology.org/2021.acl-long.491.pdf)
 
@@ -95,16 +98,16 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 ### Prompt Learning
 
 #### Vanilla Prompt Learning
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
+* Template-Based Named Entity Recognition Using BART (ACL 2021) [[paper]](https://aclanthology.org/2021.findings-acl.161.pdf)
+* LightNER: A Lightweight Generative Framework with Prompt-guided Attention for Low-resource NER (2021) [[paper]](https://arxiv.org/abs/2109.00720)
+* PTR: Prompt Tuning with Rules for Text Classification () [[paper]]()
+
 
 #### Augmented Prompt Learning
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
-* () [[paper]]()
+* PTR: Prompt Tuning with Rules for Text Classification (2021) [[paper]](https://arxiv.org/abs/2105.11259)
+* KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction (WWW 2022) [[paper]](https://arxiv.org/abs/2104.07650)
+* OntoPrompt: Ontology-enhanced Prompt-tuning for Few-shot Learning (WWW 2022) [[paper]](https://arxiv.org/abs/2201.11332)
+
 
 
 ## 3 Exploiting Data and Models Together
