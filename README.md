@@ -4,7 +4,7 @@ The repository is a paper set on low-resource knowledge extraction, which is cat
 
 ## Content
 
-[1 Exploiting Higher-resource Data](## 1 Exploiting Higher-resource Data)
+[TOC]
 
 
 ## 1 Exploiting Higher-resource Data
