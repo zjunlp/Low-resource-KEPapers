@@ -2,6 +2,10 @@
 
 The repository is a paper set on low-resource knowledge extraction, which is categorized into three paradigms. 
 
+## Content
+
+[1 Exploiting Higher-resource Data](## 1 Exploiting Higher-resource Data)
+
 
 ## 1 Exploiting Higher-resource Data
 
