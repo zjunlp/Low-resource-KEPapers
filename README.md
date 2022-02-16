@@ -19,30 +19,18 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 ## 1 Exploiting Higher-resource Data
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+
 
 ### Weakly Supervised Augmentation
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+
+* Distant supervision for relation extraction without labeled data (ACL 2009) [[paper]](https://dl.acm.org/doi/pdf/10.5555/1690219.1690287)
+* BOND: BERT-Assisted Open-Domain Named Entity Recognition with Distant Supervision () [[paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403149)
+* () [[paper]]()
+* () [[paper]]()
 
 
 ### Multi-modal Augmentation
