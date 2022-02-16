@@ -188,7 +188,29 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 * []()
 
 ### Formulating KE as QA and MRC
-
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ### Retrieval Augmentation
 
+#### Retrieval-based Language Models
+* []()
+* []()
+* []()
+* []()
+* []()
+
+#### Few-shot Settings
+* []()
+* []()
+* []()
+* []()
+* []()
