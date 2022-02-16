@@ -34,54 +34,37 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 
 ### Multi-modal Augmentation
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 
 ### Multi-lingual Augmentation
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 
 ### Auxiliary Knowledge Enhancement
 #### Text
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 #### KG
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 #### Ontology & Rule
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 
 ## 2 Exploiting Stronger Models
@@ -89,58 +72,50 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 ### Meta Learning
 
 #### For Low-resource NER
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 #### For Low-resource RE
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 #### For Low-resource EE
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 ### Transfer Learning
 
 #### Class-related Semantics
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 #### Pre-trained Language Representations
-* []()
-* []()
-* []()
-* []()
-* []()
-
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 ### Prompt Learning
 
 #### Vanilla Prompt Learning
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 #### Augmented Prompt Learning
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 
 ## 3 Exploiting Data and Models Together
@@ -148,57 +123,46 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 ### Multi-task Learning
 
 #### NER, named entity normalization
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 #### NER, RE
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 #### NER, RE, EE
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 #### word sense disambiguation (WSD), event detection (ED)
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 ### Formulating KE as QA and MRC
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 ### Retrieval Augmentation
 
 #### Retrieval-based Language Models
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
 
 #### Few-shot Settings
-* []()
-* []()
-* []()
-* []()
-* []()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+* () [[paper]]()
+
