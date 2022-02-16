@@ -41,16 +41,16 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 
 ### Auxiliary Knowledge Enhancement
-#### Text
+#### (1) Text
 * Improving Event Detection via Open-domain Trigger Knowledge (ACL 2020) [[paper]](https://aclanthology.org/2020.acl-main.522.pdf)
 * MapRE: An Effective Semantic Mapping Approach for Low-resource Relation Extraction (EMNLP 2021) [[paper]](https://aclanthology.org/2021.emnlp-main.212.pdf)
 
-#### KG
+#### (2) KG
 * DOZEN: Cross-Domain Zero Shot Named Entity Recognition with Knowledge Graph (SIGIR 2021) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3463113)
 * Leveraging FrameNet to Improve Automatic Event Detection (ACL 2016) [[paper]](https://aclanthology.org/P16-1201.pdf)
 
 
-#### Ontology & Rule
+#### (3) Ontology & Rule
 * Logic-guided Semantic Representation Learning for Zero-Shot Relation Classification (COLING 2020) [[paper]](https://aclanthology.org/2020.coling-main.265.pdf)
 * OntoED: Low-resource Event Detection with Ontology Embedding (ACL 2021) [[paper]](https://aclanthology.org/2021.acl-long.220.pdf)
 * Low-resource Extraction with Knowledge-aware Pairwise Prototype Learning (Knowledge-Based Systems, 2022) [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705121008467)
@@ -78,12 +78,12 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 ### Transfer Learning
 
-#### Class-related Semantics
+#### (1) Class-related Semantics
 * Zero-Shot Transfer Learning for Event Extraction (ACL 2018) [[paper]](https://aclanthology.org/P18-1201.pdf)
 * Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks (NAACL 2019) [[paper]](https://aclanthology.org/N19-1306.pdf)
 * Relation Adversarial Network for Low Resource Knowledge Graph Completion (WWW 2020) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380089)
 
-#### Pre-trained Language Representations
+#### (2) Pre-trained Language Representations
 * Matching the Blanks: Distributional Similarity for Relation Learning (ACL 2019) [[paper]](https://aclanthology.org/P19-1279.pdf)
 * Exploring Pre-trained Language Models for Event Extraction and Generation (ACL 2019) [[paper]](https://aclanthology.org/P19-1522.pdf)
 * Coarse-to-Fine Pre-training for Named Entity Recognition (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.514.pdf)
@@ -92,12 +92,12 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 ### Prompt Learning
 
-#### Vanilla Prompt Learning
+#### (1) Vanilla Prompt Learning
 * Template-Based Named Entity Recognition Using BART (ACL 2021) [[paper]](https://aclanthology.org/2021.findings-acl.161.pdf)
 * LightNER: A Lightweight Generative Framework with Prompt-guided Attention for Low-resource NER (2021) [[paper]](https://arxiv.org/abs/2109.00720)
 
 
-#### Augmented Prompt Learning
+#### (2) Augmented Prompt Learning
 * PTR: Prompt Tuning with Rules for Text Classification (2021) [[paper]](https://arxiv.org/abs/2105.11259)
 * KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction (WWW 2022) [[paper]](https://arxiv.org/abs/2104.07650)
 * OntoPrompt: Ontology-enhanced Prompt-tuning for Few-shot Learning (WWW 2022) [[paper]](https://arxiv.org/abs/2201.11332)
@@ -108,23 +108,23 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 ### Multi-task Learning
 
-#### NER, named entity normalization
+#### (1) NER, named entity normalization
 * A Neural Multi-Task Learning Framework to Jointly Model Medical Named Entity Recognition and Normalization (AAAI 2019) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/3861)
 * MTAAL: Multi-Task Adversarial Active Learning for Medical Named Entity Recognition and Normalization (AAAI 2021) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17714)
 * An End-to-End Progressive Multi-Task Learning Framework for Medical Named Entity Recognition and Normalization (ACL 2021) [[paper]](https://aclanthology.org/2021.acl-long.485.pdf)
 
 
-#### NER, RE
+#### (2) NER, RE
 * GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction (ACL 2019) [[paper]](https://aclanthology.org/P19-1136.pdf)
 * CopyMTL: Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning (AAAI 2020) [[paper]](https://arxiv.org/abs/1911.10438)
 * Joint Entity and Relation Extraction Model based on Rich Semantics (Neurocomputing, 2021) [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231220319378?casa_token=jzgLW9J1UKoAAAAA:5vnqqGKt0_-ykbhTp15Bq8mB-8B50cM3LDa10q2h8yc4q4AJVfeEbQV_fyMo2Z92xjl3HPNt6w)
 
 
-#### NER, RE, EE
+#### (3) NER, RE, EE
 * Entity, Relation, and Event Extraction with Contextualized Span Representations (EMNLP 2019) [[paper]](https://aclanthology.org/D19-1585.pdf)
 
 
-#### word sense disambiguation (WSD), event detection (ED)
+#### (4) Word Sense Disambiguation (WSD), Event Detection (ED)
 * Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching (EMNLP 2018) [[paper]](https://aclanthology.org/D18-1517.pdf)
 
 ### Formulating KE as QA and MRC
