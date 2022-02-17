@@ -3,7 +3,7 @@
 The repository is a paper set on low-resource knowledge extraction (NER, RE, EE), which is categorized into three paradigms. 
 
 ## Content
-* [Related Surveys on Low-resource KE](#Related-Surveys-on-Low-resource KE)
+* [Related Surveys on Low-resource KE](#Related-Surveys-on-Low-resource-KE)
   * [Knowledge Extraction](#Knowledge-Extraction)
   * [Low-resource NLP](#Low-resource-NLP)
   * [Low-resource Learning](#Low-resource-Learning)
