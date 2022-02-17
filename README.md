@@ -39,7 +39,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### Low-resource Learning
-* Generalizing from a Few Examples-A Survey on Few-shot Learning (ACM Computing Surveys, 2021) [[paper]](https://dl.acm.org/doi/10.1145/3386252)
+* Generalizing from a Few Examples: A Survey on Few-shot Learning (ACM Computing Surveys, 2021) [[paper]](https://dl.acm.org/doi/10.1145/3386252)
 * Knowledge-aware Zero-Shot Learning: Survey and Perspective (IJCAI 2021) [[paper]](https://www.ijcai.org/proceedings/2021/0597.pdf)
 * Low-resource Learning with Knowledge Graphs: A Comprehensive Survey (2021) [[paper]](https://arxiv.org/abs/2112.10006)
 
