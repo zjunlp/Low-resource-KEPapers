@@ -69,11 +69,13 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 * Few-shot Relation Extraction via Bayesian Meta-learning on Relation Graphs (ICML 2020) [[paper]](http://proceedings.mlr.press/v119/qu20a/qu20a.pdf)
 * Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification (AAAI 2019) [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/4604)
 * Enhanced Meta-Learning for Cross-Lingual Named Entity Recognition with Minimal Resources (AAAI 2020) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6466)
+* Meta-Information Guided Meta-Learning for Few-Shot Relation Classification (COLING 2020)[[paper](https://aclanthology.org/2020.coling-main.140.pdf)]
 
 
 #### For Low-resource EE
 * Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection (WSDM 2020) [[paper]](https://dl.acm.org/doi/abs/10.1145/3336191.3371796)
 * Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection (ACL 2021 finding) [[paper]](https://aclanthology.org/2021.findings-acl.214.pdf)
+* Few-Shot Event Detection with Prototypical Amortized Conditional Random Field (ACL 2021 finding) [[paper](https://aclanthology.org/2021.findings-acl.3.pdf)]
 
 
 ### Transfer Learning
@@ -88,7 +90,7 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 * Exploring Pre-trained Language Models for Event Extraction and Generation (ACL 2019) [[paper]](https://aclanthology.org/P19-1522.pdf)
 * Coarse-to-Fine Pre-training for Named Entity Recognition (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.514.pdf)
 * CLEVE: Contrastive Pre-training for Event Extraction (ACL 2021) [[paper]](https://aclanthology.org/2021.acl-long.491.pdf)
-
+* Graph Learning Regularization and Transfer Learning for Few-Shot Event Detection (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.490.pdf)]
 
 ### Prompt Learning
 
