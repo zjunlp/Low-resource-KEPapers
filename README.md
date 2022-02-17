@@ -25,23 +25,23 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## Related Surveys on Low-resource KE
 ### Knowledge Extraction
-*  () [[paper]]()
-*  () [[paper]]()
+* A Survey on Deep Learning for Named Entity Recognition (TKDE, 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9039685)
+* A Survey on Recent Advances in Named Entity Recognition from Deep Learning Models (COLING 2018) [[paper]](https://aclanthology.org/C18-1182.pdf)
 * A Survey on Neural Relation Extraction (Science China Technological Sciences, 2020) [[paper]](https://link.springer.com/article/10.1007/s11431-020-1673-6)
 * A Survey of Event Extraction From Text (ACCESS, 2019) [[paper]](https://ieeexplore.ieee.org/document/8918013)
 * What is Event Knowledge Graph: A Survey (2021) [[paper]](https://arxiv.org/abs/2112.15280)
 
 
 ### Low-resource NLP
-*  () [[paper]]()
+* A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios (NAACL 2021) [[paper]](https://aclanthology.org/2021.naacl-main.201.pdf)
 * Few-Shot Named Entity Recognition: An Empirical Baseline Study (EMNLP 2021) [[paper]](https://aclanthology.org/2021.emnlp-main.813.pdf)
-*  () [[paper]]()
+* A Survey on Low-Resource Neural Machine Translation (IJCAI 2021) [[paper]](https://www.ijcai.org/proceedings/2021/0629.pdf)
 
 
 ### Low-resource Learning
 * Generalizing from a Few Examples-A Survey on Few-shot Learning (ACM Computing Surveys, 2021) [[paper]](https://dl.acm.org/doi/10.1145/3386252)
 * Knowledge-aware Zero-Shot Learning: Survey and Perspective (IJCAI 2021) [[paper]](https://www.ijcai.org/proceedings/2021/0597.pdf)
-*  () [[paper]]()
+* Low-resource Learning with Knowledge Graphs: A Comprehensive Survey (2021) [[paper]](https://arxiv.org/abs/2112.10006)
 
 ## 1 Exploiting Higher-resource Data
 
