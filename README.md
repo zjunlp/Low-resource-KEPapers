@@ -26,7 +26,8 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 *  () [[paper]]()
 *  () [[paper]]()
 * A Survey on Neural Relation Extraction (Science China Technological Sciences, 2020) [[paper]](https://link.springer.com/article/10.1007/s11431-020-1673-6)
-*  () [[paper]]()
+* A Survey of Event Extraction From Text (ACCESS, 2019) [[paper]](https://ieeexplore.ieee.org/document/8918013)
+* What is Event Knowledge Graph: A Survey (2021) [[paper]](https://arxiv.org/abs/2112.15280)
 
 
 ### Low-resource NLP
