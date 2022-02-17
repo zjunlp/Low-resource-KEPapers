@@ -116,7 +116,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 * Exploring Pre-trained Language Models for Event Extraction and Generation (ACL 2019) [[paper]](https://aclanthology.org/P19-1522.pdf)
 * Coarse-to-Fine Pre-training for Named Entity Recognition (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.514.pdf)
 * CLEVE: Contrastive Pre-training for Event Extraction (ACL 2021) [[paper]](https://aclanthology.org/2021.acl-long.491.pdf)
-* Graph Learning Regularization and Transfer Learning for Few-Shot Event Detection (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.490.pdf)]
+* Unleash GPT-2 Power for Event Detection (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.490.pdf)]
 
 ### Prompt Learning
 
