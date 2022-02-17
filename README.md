@@ -32,13 +32,13 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 ### Low-resource NLP
 *  () [[paper]]()
-*  () [[paper]]()
+* Few-Shot Named Entity Recognition: An Empirical Baseline Study (EMNLP 2021) [[paper]](https://aclanthology.org/2021.emnlp-main.813.pdf)
 *  () [[paper]]()
 
 
 ### Low-resource Learning
 * Generalizing from a Few Examples-A Survey on Few-shot Learning (ACM Computing Surveys, 2021) [[paper]](https://dl.acm.org/doi/10.1145/3386252)
-*  () [[paper]]()
+* Knowledge-aware Zero-Shot Learning: Survey and Perspective (IJCAI 2021) [[paper]](https://www.ijcai.org/proceedings/2021/0597.pdf)
 *  () [[paper]]()
 
 ## 1 Exploiting Higher-resource Data
