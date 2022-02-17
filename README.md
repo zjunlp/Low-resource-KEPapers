@@ -23,13 +23,22 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 ## Related Surveys on Low-resource KE
 ### Knowledge Extraction
+*  () [[paper]]()
+*  () [[paper]]()
+*  () [[paper]]()
+*  () [[paper]]()
 
 
 ### Low-resource NLP
+*  () [[paper]]()
+*  () [[paper]]()
+*  () [[paper]]()
 
 
 ### Low-resource Learning
-
+*  () [[paper]]()
+*  () [[paper]]()
+*  () [[paper]]()
 
 ## 1 Exploiting Higher-resource Data
 
