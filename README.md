@@ -3,6 +3,10 @@
 The repository is a paper set on low-resource knowledge extraction (NER, RE, EE), which is categorized into three paradigms. 
 
 ## Content
+* [Related Surveys on Low-resource KE](#Related-Surveys-on-Low-resource KE)
+  * [Knowledge Extraction](#Knowledge-Extraction)
+  * [Low-resource NLP](#Low-resource-NLP)
+  * [Low-resource Learning](#Low-resource-Learning)
 * [1 Exploiting Higher-resource Data](#1-Exploiting-Higher-resource-Data)
   * [1.1 Weakly Supervised Augmentation](#Weakly-Supervised-Augmentation)
   * [1.2 Multi-modal Augmentation](#Multi-modal-Augmentation)
@@ -17,8 +21,17 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
   * [3.2 Formulating KE as QA/MRC](#Formulating-KE-as-QA-and-MRC)
   * [3.3 Retrieval Augmentation](#Retrieval-Augmentation)
 
-## 1 Exploiting Higher-resource Data
+## Related Surveys on Low-resource KE
+### Knowledge Extraction
 
+
+### Low-resource NLP
+
+
+### Low-resource Learning
+
+
+## 1 Exploiting Higher-resource Data
 
 ### Weakly Supervised Augmentation
 * Distant Supervision for Relation Extraction without Labeled Data (ACL 2009) [[paper]](https://aclanthology.org/P09-1113.pdf)
