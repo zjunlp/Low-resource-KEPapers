@@ -84,6 +84,7 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 * Zero-Shot Transfer Learning for Event Extraction (ACL 2018) [[paper]](https://aclanthology.org/P18-1201.pdf)
 * Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks (NAACL 2019) [[paper]](https://aclanthology.org/N19-1306.pdf)
 * Relation Adversarial Network for Low Resource Knowledge Graph Completion (WWW 2020) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380089)
+* Graph Learning Regularization and Transfer Learning for Few-Shot Event Detection (SIGIR 2021) [[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463054)]
 
 #### (2) Pre-trained Language Representations
 * Matching the Blanks: Distributional Similarity for Relation Learning (ACL 2019) [[paper]](https://aclanthology.org/P19-1279.pdf)
