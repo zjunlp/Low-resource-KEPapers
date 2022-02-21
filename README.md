@@ -2,7 +2,7 @@
 
 The repository is a paper set on low-resource knowledge extraction (NER, RE, EE), which is categorized into three paradigms. 
 
-We strongly encourage the researchers that want to promote their fantastic work to the community to make pull request to update their paper's information! 
+We strongly encourage the researchers who want to promote their fantastic work for the community to make pull request and update their papers in this repository! 
 
 ## Content
 * [Related Surveys on Low-resource KE](#Related-Surveys-on-Low-resource-KE)
