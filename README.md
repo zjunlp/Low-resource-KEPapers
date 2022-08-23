@@ -4,8 +4,16 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 
 We strongly encourage the researchers who want to promote their fantastic work for the community to make pull request and update their papers in this repository! 
 
+
+*Survey Paper*
+[Knowledge Extraction in Low-Resource Scenarios: Survey and Perspective](https://arxiv.org/abs/2202.08063)
+
+*Slides*
+[Coming Soon]()
+
+
 ## Content
-* [Related Surveys on Low-resource KE](#Related-Surveys-on-Low-resource-KE)
+* [*Related Surveys on Low-resource KE*](#Related-Surveys-on-Low-resource-KE)
   * [Knowledge Extraction](#Knowledge-Extraction)
   * [Low-resource NLP](#Low-resource-NLP)
   * [Low-resource Learning](#Low-resource-Learning)
