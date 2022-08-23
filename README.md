@@ -69,7 +69,7 @@ We strongly encourage the researchers who want to promote their fantastic work f
 ### Multi-modal Augmentation
 * Visual Attention Model for Name Tagging in Multimodal Social Media (ACL 2018) [[paper]](https://aclanthology.org/P18-1185.pdf)
 * Cross-media Structured Common Space for Multimedia Event Extraction (ACL 2020) [[paper]](https://aclanthology.org/2020.acl-main.230.pdf)
-* Joint Multimedia Event Extraction from Video and Article (EMNLP 2021 finding) [[paper]](https://aclanthology.org/2021.findings-emnlp.8.pdf)
+* Joint Multimedia Event Extraction from Video and Article (EMNLP 2021, findings) [[paper]](https://aclanthology.org/2021.findings-emnlp.8.pdf)
 * Multimodal Relation Extraction with Efficient Graph Alignment (MM 2021) [[paper]](https://dl.acm.org/doi/10.1145/3474085.3476968)
 * Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion (SIGIR 2022) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531992)
 
@@ -96,6 +96,7 @@ We strongly encourage the researchers who want to promote their fantastic work f
 * Logic-guided Semantic Representation Learning for Zero-Shot Relation Classification (COLING 2020) [[paper]](https://aclanthology.org/2020.coling-main.265.pdf)
 * OntoED: Low-resource Event Detection with Ontology Embedding (ACL 2021) [[paper]](https://aclanthology.org/2021.acl-long.220.pdf)
 * Low-resource Extraction with Knowledge-aware Pairwise Prototype Learning (Knowledge-Based Systems, 2022) [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705121008467)
+* Neuralizing Regular Expressions for Slot Filling (EMNLP 2021) [[paper]](https://aclanthology.org/2021.emnlp-main.747.pdf)
 
 
 
@@ -115,8 +116,8 @@ We strongly encourage the researchers who want to promote their fantastic work f
 
 #### For Low-resource EE
 * Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection (WSDM 2020) [[paper]](https://dl.acm.org/doi/abs/10.1145/3336191.3371796)
-* Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection (ACL 2021 finding) [[paper]](https://aclanthology.org/2021.findings-acl.214.pdf)
-* Few-Shot Event Detection with Prototypical Amortized Conditional Random Field (ACL 2021 finding) [[paper]](https://aclanthology.org/2021.findings-acl.3.pdf)
+* Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection (ACL 2021 findings) [[paper]](https://aclanthology.org/2021.findings-acl.214.pdf)
+* Few-Shot Event Detection with Prototypical Amortized Conditional Random Field (ACL 2021, findings) [[paper]](https://aclanthology.org/2021.findings-acl.3.pdf)
 
 
 ### Transfer Learning
@@ -143,7 +144,7 @@ We strongly encourage the researchers who want to promote their fantastic work f
 * LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting (COLING 2022) [[paper]](https://arxiv.org/abs/2109.00720)
 * Template-free Prompt Tuning for Few-shot NER (NAACL 2022) [[paper]](https://aclanthology.org/2022.naacl-main.420.pdf)
 * RelationPrompt: Leveraging Prompts to Generate Synthetic Data for
-Zero-Shot Relation Triplet Extraction (ACL 2022 findings) [[paper]](https://aclanthology.org/2022.findings-acl.5.pdf)
+Zero-Shot Relation Triplet Extraction (ACL 2022, findings) [[paper]](https://aclanthology.org/2022.findings-acl.5.pdf)
 * DEGREE: A Data-Efficient Generation-Based Event Extraction Model (NAACL 2022) [[paper]](https://aclanthology.org/2022.naacl-main.138.pdf)
 * Dynamic Prefix-Tuning for Generative Template-based Event Extraction (ACL 2022) [[paper]](https://aclanthology.org/2022.acl-long.358.pdf)
 
@@ -152,8 +153,6 @@ Zero-Shot Relation Triplet Extraction (ACL 2022 findings) [[paper]](https://acla
 * KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction (WWW 2022) [[paper]](https://dl.acm.org/doi/abs/10.1145/3485447.3511998)
 * Ontology-enhanced Prompt-tuning for Few-shot Learning (WWW 2022) [[paper]](https://dl.acm.org/doi/10.1145/3485447.3511921)
 * Unified Structure Generation for Universal Information Extraction (ACL 2022) [[paper]](https://aclanthology.org/2022.acl-long.395.pdf)
-* Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning (SIGIR 2022 short paper) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531746)
-* Decoupling Knowledge from Memorization: Retrieval-Augmented Prompt Learning (2022) [[paper]](https://arxiv.org/abs/2205.14704)
 
 
 
@@ -189,6 +188,10 @@ Zero-Shot Relation Triplet Extraction (ACL 2022 findings) [[paper]](https://acla
 
 ### Retrieval Augmentation
 
+#### Retrieval-based Low-resource KE
+* Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning (SIGIR 2022, short paper) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531746)
+* Decoupling Knowledge from Memorization: Retrieval-Augmented Prompt Learning (2022) [[paper]](https://arxiv.org/abs/2205.14704)
+
 #### Retrieval-based Language Models
 * Generalization through Memorization: Nearest Neighbor Language Models (ICLR 2020) [[paper]](https://openreview.net/forum?id=HklBjCEKvH)
 * Retrieval Augmented Language Model Pre-Training (ICML 2020) [[paper]](http://proceedings.mlr.press/v119/guu20a.html)
@@ -201,8 +204,4 @@ Zero-Shot Relation Triplet Extraction (ACL 2022 findings) [[paper]](https://acla
 #### Few-shot Settings
 * Few-shot Intent Classification and Slot Filling with Retrieved Examples (NAACL 2021) [[paper]](https://aclanthology.org/2021.naacl-main.59.pdf)
 * KNN-BERT: Fine-Tuning Pre-Trained Models with KNN Classifier (2021) [[paper]](https://openreview.net/pdf?id=BecjRxs-lY5)
-
-
-### Other
-* Neuralizing Regular Expressions for Slot Filling (EMNLP 2021) [[paper]](https://aclanthology.org/2021.emnlp-main.747.pdf)
 
