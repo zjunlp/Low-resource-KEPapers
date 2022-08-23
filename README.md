@@ -5,28 +5,31 @@ The repository is a paper set on low-resource knowledge extraction (NER, RE, EE)
 We strongly encourage the researchers who want to promote their fantastic work for the community to make pull request and update their papers in this repository! 
 
 
-*Survey Paper*
+**Survey Paper**:
+
 [Knowledge Extraction in Low-Resource Scenarios: Survey and Perspective](https://arxiv.org/abs/2202.08063)
 
-*Slides*
+
+**Slides**:
+
 [Coming Soon]()
 
 
 ## Content
-* [*Related Surveys on Low-resource KE*](#Related-Surveys-on-Low-resource-KE)
+* [**Related Surveys on Low-resource KE**](#Related-Surveys-on-Low-resource-KE)
   * [Knowledge Extraction](#Knowledge-Extraction)
   * [Low-resource NLP](#Low-resource-NLP)
   * [Low-resource Learning](#Low-resource-Learning)
-* [1. Exploiting Higher-resource Data](#1-Exploiting-Higher-resource-Data)
+* [**1. Exploiting Higher-resource Data**](#1-Exploiting-Higher-resource-Data)
   * [1.1 Weakly Supervised Augmentation](#Weakly-Supervised-Augmentation)
   * [1.2 Multi-modal Augmentation](#Multi-modal-Augmentation)
   * [1.3 Multi-lingual Augmentation](#Multi-lingual-Augmentation)
   * [1.4 Auxiliary Knowledge Enhancement](#Auxiliary-Knowledge-Enhancement)
-* [2. Exploiting Stronger Models](#2-Exploiting-Stronger-Models)
+* [**2. Exploiting Stronger Models**](#2-Exploiting-Stronger-Models)
   * [2.1 Meta Learning](#Meta-Learning)
   * [2.2 Transfer Learning](#Transfer-Learning)
   * [2.3 Prompt Learning](#Prompt-Learning)
-* [3. Exploiting Data and Models Together](#3-Exploiting-Data-and-Models-Together)
+* [**3. Exploiting Data and Models Together**](#3-Exploiting-Data-and-Models-Together)
   * [3.1 Multi-task Learning](#Multi-task-Learning)
   * [3.2 Formulating KE as QA/MRC](#Formulating-KE-as-QA-and-MRC)
   * [3.3 Retrieval Augmentation](#Retrieval-Augmentation)
