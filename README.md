@@ -32,6 +32,7 @@
   * [3.1 Multi-task Learning](#Multi-task-Learning)
   * [3.2 Formulating KE as QA/MRC](#Formulating-KE-as-QA-and-MRC)
   * [3.3 Retrieval Augmentation](#Retrieval-Augmentation)
+* [**How to Cite**](#How-to-Cite)
 
 
 
@@ -230,3 +231,26 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 * KNN-BERT: Fine-Tuning Pre-Trained Models with KNN Classifier (2021) \[[paper](https://arxiv.org/abs/2110.02523)\]
 * Few-shot Learning with Retrieval Augmented Language Models (2022, Meta AI, Atlas) \[[paper](https://arxiv.org/abs/2208.03299)\]
 
+
+
+## How to Cite
+
+📋 Thank you very much for your interest in our survey work. If you use or extend our survey, please cite the following paper:
+
+```
+@inproceedings{2022_LowResKE,
+    author    = {Shumin Deng and
+               Ningyu Zhang and
+               Hui Chen and
+               Feiyu Xiong and
+               Jeff Z. Pan and
+               Huajun Chen},
+  title     = {Knowledge Extraction in Low-Resource Scenarios: Survey and Perspective},
+  journal   = {CoRR},
+  volume    = {abs/2202.08063},
+  year      = {2022},
+  url       = {https://arxiv.org/abs/2202.08063},
+  eprinttype = {arXiv},
+  eprint    = {2202.08063}
+}
+```
