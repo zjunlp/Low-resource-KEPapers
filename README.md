@@ -93,6 +93,7 @@
 * Joint Multimedia Event Extraction from Video and Article (EMNLP 2021, Findings) \[[paper](https://aclanthology.org/2021.findings-emnlp.8.pdf)\]
 * Multimodal Relation Extraction with Efficient Graph Alignment (MM 2021) \[[paper](https://dl.acm.org/doi/10.1145/3474085.3476968)\]
 * Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion (SIGIR 2022) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531992)\]
+* Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction (NAACL 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-naacl.121.pdf)\]
 
 
 ### Multi-lingual Augmentation
@@ -161,7 +162,7 @@
 ### Prompt Learning
 
 #### (1) Vanilla Prompt Learning
-* Template-Based Named Entity Recognition Using BART (ACL 2021) \[[paper](https://aclanthology.org/2021.findings-acl.161.pdf)\]
+* Template-Based Named Entity Recognition Using BART (ACL 2021, Findings) \[[paper](https://aclanthology.org/2021.findings-acl.161.pdf)\]
 * LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting (COLING 2022) \[[paper](https://arxiv.org/abs/2109.00720)\]
 * Template-free Prompt Tuning for Few-shot NER (NAACL 2022) \[[paper](https://aclanthology.org/2022.naacl-main.420.pdf)\]
 * RelationPrompt: Leveraging Prompts to Generate Synthetic Data for
