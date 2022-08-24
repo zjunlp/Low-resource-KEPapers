@@ -141,7 +141,7 @@
 * Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection (WSDM 2020) \[[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371796)\]
 * Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection (ACL 2021, Findings) \[[paper](https://aclanthology.org/2021.findings-acl.214.pdf)\]
 * Few-Shot Event Detection with Prototypical Amortized Conditional Random Field (ACL 2021, Findings) \[[paper](https://aclanthology.org/2021.findings-acl.3.pdf)\]
-* * Pre-training to Match for Unified Low-shot Relation Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.397.pdf)\]
+* Pre-training to Match for Unified Low-shot Relation Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.397.pdf)\]
 
 
 ### Transfer Learning
