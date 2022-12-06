@@ -13,6 +13,10 @@
 - Efficient and Robust Knowledge Graph Construction ([Tutorial on AACL-IJCNLP 2022](https://www.aacl2022.org/Program/tutorials)) \[[slides](https://github.com/NLP-Tutorials/AACL-IJCNLP2022-KGC-Tutorial)\] 
 
 
+**ToolKit**: 
+
+- DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population ([paper](https://arxiv.org/pdf/2201.03335.pdf)) \[[project](https://github.com/NLP-Tutorials/AACL-IJCNLP2022-KGC-Tutorial)\] 
+
 
 ## Content
 * [**0. Related Surveys on Low-resource KE**](#Related-Surveys-on-Low-resource-KE)
