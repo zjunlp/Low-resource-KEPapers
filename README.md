@@ -15,7 +15,7 @@
 
 **ToolKit**: 
 
-- DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population ([paper](https://arxiv.org/pdf/2201.03335.pdf)) \[[project](https://github.com/NLP-Tutorials/AACL-IJCNLP2022-KGC-Tutorial)\] 
+- DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population [[project](https://github.com/NLP-Tutorials/AACL-IJCNLP2022-KGC-Tutorial)]
 
 
 ## Content
