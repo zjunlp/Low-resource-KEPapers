@@ -75,6 +75,7 @@
 * {***FewRel***}: FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation (EMNLP 2018) \[[paper](https://aclanthology.org/D18-1514.pdf), [data](https://github.com/thunlp/FewRel)\]
 * {***FewRel2.0***}: FewRel 2.0: Towards More Challenging Few-Shot Relation Classification (EMNLP 2019) \[[paper](https://aclanthology.org/D19-1649.pdf), [data](https://github.com/thunlp/FewRel)\]
 * {***Entail-RE***}: Low-resource Extraction with Knowledge-aware Pairwise Prototype Learning (Knowledge-Based Systems, 2022) \[[paper](https://www.sciencedirect.com/science/article/pii/S0950705121008467), [data](https://github.com/231sm/Reasoning_In_KE)\]
+* {***LREBench***}: Towards Realistic Low-resource Relation Extraction: A Benchmark with Empirical Baseline Study (EMNLP Findings, 2022) \[[paper](https://arxiv.org/abs/2210.10678), [data](https://github.com/zjunlp/LREBench)\]
 
 ### Low-resource EE
 * {***FewEvent***}: Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection (WSDM 2020) \[[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371796), [data](https://github.com/231sm/Low_Resource_KBP)\]
@@ -95,6 +96,8 @@
 * Automatically Labeled Data Generation for Large Scale Event Extraction (ACL 2017) \[[paper](https://aclanthology.org/P17-1038.pdf)\]
 * Gradient Imitation Reinforcement Learning for Low Resource Relation Extraction (EMNLP 2021) \[[paper](https://aclanthology.org/2021.emnlp-main.216.pdf)\]
 * Adversarial Training for Weakly Supervised Event Detection (NAACL 2019) \[[paper](https://aclanthology.org/N19-1105.pdf)\]
+* MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER  (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.160.pdf)\]
+* Mask-then-Fill: A Flexible and Effective Data Augmentation Framework for Event Extraction (EMNLP 2022 Findings) \[[paper](https://arxiv.org/abs/2301.02427)\]
 
 
 ### Multi-modal Augmentation
@@ -222,7 +225,8 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 
 #### Retrieval-based Low-resource KE
 * Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning (SIGIR 2022, Short Paper) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531746)\]
-* Decoupling Knowledge from Memorization: Retrieval-Augmented Prompt Learning (2022) \[[paper](https://arxiv.org/abs/2205.14704)\]
+* Decoupling Knowledge from Memorization: Retrieval-Augmented Prompt Learning (NeurIPS 2022, Spotlight) \[[paper](https://arxiv.org/abs/2205.14704)\]
+* Retrieval-Augmented Generative Question Answering for Event Argument Extraction (EMNLP 2022) \[[paper](https://arxiv.org/abs/2211.07067)\]
 
 #### Retrieval-based Language Models
 * Improving Neural Language Models with a Continuous Cache (ICLR 2017) \[[paper](https://openreview.net/forum?id=B184E5qee)\]
@@ -250,10 +254,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 @inproceedings{2022_LowResKE,
     author    = {Shumin Deng and
                Ningyu Zhang and
-               Hui Chen and
-               Feiyu Xiong and
-               Jeff Z. Pan and
-               Huajun Chen},
+               Bryan Hooi},
   title     = {Knowledge Extraction in Low-Resource Scenarios: Survey and Perspective},
   journal   = {CoRR},
   volume    = {abs/2202.08063},
