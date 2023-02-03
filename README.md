@@ -50,8 +50,11 @@
 * A Survey on Deep Learning for Named Entity Recognition (TKDE, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9039685)\]
 * A Survey on Recent Advances in Named Entity Recognition from Deep Learning Models (COLING 2018) \[[paper](https://aclanthology.org/C18-1182.pdf)\]
 * A Survey on Neural Relation Extraction (Science China Technological Sciences, 2020) \[[paper](https://link.springer.com/article/10.1007/s11431-020-1673-6)\]
+* Deep Neural Network-Based Relation Extraction: An Overview (Neural Computing and Applications, 2022) \[[paper](https://link.springer.com/article/10.1007/s00521-021-06667-3)\]
+* Relation Extraction: A Brief Survey on Deep Neural Network Based Methods (ICSIM 2021) \[[paper](https://dl.acm.org/doi/abs/10.1145/3451471.3451506)\]
 * A Survey of Event Extraction From Text (ACCESS, 2019) \[[paper](https://ieeexplore.ieee.org/document/8918013)\]
 * What is Event Knowledge Graph: A Survey (TKDE, 2022) \[[paper](https://arxiv.org/abs/2112.15280)\]
+* A Survey on Deep Learning Event Extraction: Approaches and Applications (TNNLS, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9927311)\]
 * Generative Knowledge Graph Construction: A Review (EMNLP, 2022) \[[paper](https://arxiv.org/pdf/2210.12714.pdf)\]
 
 ### Low-resource NLP
