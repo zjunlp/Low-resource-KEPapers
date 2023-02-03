@@ -49,7 +49,7 @@
 ### Knowledge Extraction
 #### NER
 * A Survey on Recent Advances in Named Entity Recognition from Deep Learning Models (COLING 2018) \[[paper](https://aclanthology.org/C18-1182.pdf)\]
-* A Survey on Deep Learning for Named Entity Recognition (TKDE, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9039685)\]
+* A Survey on Deep Learning for Named Entity Recognition (TKDE, 2020) \[[paper](https://ieeexplore.ieee.org/abstract/document/9039685)\]
 
 #### RE
 * A Survey on Neural Relation Extraction (Science China Technological Sciences, 2020) \[[paper](https://link.springer.com/article/10.1007/s11431-020-1673-6)\]
