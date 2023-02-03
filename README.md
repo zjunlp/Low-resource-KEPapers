@@ -58,11 +58,22 @@
 
 #### EE
 * A Survey of Event Extraction From Text (ACCESS, 2019) \[[paper](https://ieeexplore.ieee.org/document/8918013)\]
-* What is Event Knowledge Graph: A Survey (TKDE, 2022) \[[paper](https://arxiv.org/abs/2112.15280)\]
+* What is Event Knowledge Graph: A Survey (TKDE, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9792280)\]
 * A Survey on Deep Learning Event Extraction: Approaches and Applications (TNNLS, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9927311)\]
 
 #### General KE
-* Generative Knowledge Graph Construction: A Review (EMNLP, 2022) \[[paper](https://arxiv.org/pdf/2210.12714.pdf)\]
+* From Information to Knowledge: Harvesting Entities and Relationships from Web Sources (PODS 2010)  \[[paper](https://dl.acm.org/doi/abs/10.1145/1807085.1807097)\]
+* Knowledge Base Population: Successful Approaches and Challenges (ACL 2011) \[[paper](https://aclanthology.org/P11-1115.pdf)\]
+* Advances in Automated Knowledge Base Construction (NAACL-HLC 2012, AKBC-WEKEX workshop) \[[paper](https://www.semanticscholar.org/paper/Advances-in-Automated-Knowledge-Base-Construction-Suchanek/709e64be9cc9eb7c8b29bf49237cd2df835efd24)\]
+* Information Extraction (IEEE Intelligent Systems, 2015) \[[paper](https://ieeexplore.ieee.org/abstract/document/7243219)\]
+* Populating Knowledge Bases (Part of The Information Retrieval Series book series, 2018) \[[paper](https://link.springer.com/chapter/10.1007/978-3-319-93935-3_6)\]
+* A Survey on Open Information Extraction (COLING 2018) \[[paper](https://aclanthology.org/C18-1326.pdf)\]
+* A Survey on Automatically Constructed Universal Knowledge Bases (Journal of Information Science, 2020) \[[paper](https://journals.sagepub.com/doi/abs/10.1177/0165551520921342)\]
+* A Survey on Knowledge Graphs: Representation, Acquisition and Applications (TNNLS, 2021) \[[paper](https://ieeexplore.ieee.org/document/9416312)\]
+* A Survey of Information Extraction Based on Deep Learning (Applied Sciences, 2022) \[[paper](https://www.mdpi.com/2076-3417/12/19/9691)\]
+* Generative Knowledge Graph Construction: A Review (EMNLP 2022) \[[paper](https://aclanthology.org/2022.emnlp-main.1.pdf)\]
+* Multi-Modal Knowledge Graph Construction and Application: A Survey (TKDE, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9961954)\]
+<!--* Knowledge Extraction from Survey Data Using Neural Networks (Procedia Computer Science, 2013) \[[paper](https://www.sciencedirect.com/science/article/pii/S1877050913010995)\]-->
 
 ### Low-resource NLP
 * A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios (NAACL 2021) \[[paper](https://aclanthology.org/2021.naacl-main.201.pdf)\]
@@ -85,7 +96,7 @@
 * {***FewRel***}: FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation (EMNLP 2018) \[[paper](https://aclanthology.org/D18-1514.pdf), [data](https://github.com/thunlp/FewRel)\]
 * {***FewRel2.0***}: FewRel 2.0: Towards More Challenging Few-Shot Relation Classification (EMNLP 2019) \[[paper](https://aclanthology.org/D19-1649.pdf), [data](https://github.com/thunlp/FewRel)\]
 * {***Entail-RE***}: Low-resource Extraction with Knowledge-aware Pairwise Prototype Learning (Knowledge-Based Systems, 2022) \[[paper](https://www.sciencedirect.com/science/article/pii/S0950705121008467), [data](https://github.com/231sm/Reasoning_In_KE)\]
-* {***LREBench***}: Towards Realistic Low-resource Relation Extraction: A Benchmark with Empirical Baseline Study (EMNLP 2022, Findings) \[[paper](https://arxiv.org/abs/2210.10678), [data](https://github.com/zjunlp/LREBench)\]
+* {***LREBench***}: Towards Realistic Low-resource Relation Extraction: A Benchmark with Empirical Baseline Study (EMNLP 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-emnlp.29.pdf), [data](https://github.com/zjunlp/LREBench)\]
 
 ### Low-resource EE
 * {***FewEvent***}: Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection (WSDM 2020) \[[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371796), [data](https://github.com/231sm/Low_Resource_KBP)\]
@@ -106,9 +117,12 @@
 * Noisy-Labeled NER with Confidence Estimation (NAACL 2021) \[[paper](https://aclanthology.org/2021.naacl-main.269.pdf)\]
 * ANEA: Distant Supervision for Low-Resource Named Entity Recognition (ICLR 2021, Workshop of Practical Machine Learning For Developing Countries) \[[paper](https://arxiv.org/pdf/2102.13129.pdf)\]
 * MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER  (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.160.pdf)\]
-* Mask-then-Fill: A Flexible and Effective Data Augmentation Framework for Event Extraction (EMNLP 2022, Findings) \[[paper](https://arxiv.org/abs/2301.02427)\]
+* Mask-then-Fill: A Flexible and Effective Data Augmentation Framework for Event Extraction (EMNLP 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-emnlp.332.pdf)\]
 * Finding Influential Instances for Distantly Supervised Relation Extraction (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.233.pdf)\]
-
+<!--* Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions (AAAI 2017) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/10953)\]-->
+<!--* Reinforcement Learning for Relation Classification From Noisy Data (AAAI 2018) \[[paper](https://dl.acm.org/doi/abs/10.5555/3504035.3504744)\]-->
+<!--* Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning  (ACL 2018) \[[paper](https://aclanthology.org/P18-1199.pdf)\]-->
+<!--* Learning Named Entity Tagger using Domain-Specific Dictionary (EMNLP 2018) \[[paper](https://aclanthology.org/D18-1230.pdf)\]-->
 
 ### Multi-modal Augmentation
 * Visual Attention Model for Name Tagging in Multimodal Social Media (ACL 2018) \[[paper](https://aclanthology.org/P18-1185.pdf)\]
@@ -190,7 +204,7 @@
 
 #### (1) Vanilla Prompt Learning
 * Template-Based Named Entity Recognition Using BART (ACL 2021, Findings) \[[paper](https://aclanthology.org/2021.findings-acl.161.pdf)\]
-* LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting (COLING 2022) \[[paper](https://arxiv.org/abs/2109.00720)\]
+* LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.209.pdf)\]
 * Template-free Prompt Tuning for Few-shot NER (NAACL 2022) \[[paper](https://aclanthology.org/2022.naacl-main.420.pdf)\]
 * RelationPrompt: Leveraging Prompts to Generate Synthetic Data for
 Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-acl.5.pdf)\]
@@ -216,7 +230,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 
 #### (2) NER, RE
 * GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction (ACL 2019) \[[paper](https://aclanthology.org/P19-1136.pdf)\]
-* CopyMTL: Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning (AAAI 2020) \[[paper](https://arxiv.org/abs/1911.10438)\]
+* CopyMTL: Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning (AAAI 2020) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6495)\]
 * Joint Entity and Relation Extraction Model based on Rich Semantics (Neurocomputing, 2021) \[[paper](https://www.sciencedirect.com/science/article/pii/S0925231220319378?casa_token=jzgLW9J1UKoAAAAA:5vnqqGKt0_-ykbhTp15Bq8mB-8B50cM3LDa10q2h8yc4q4AJVfeEbQV_fyMo2Z92xjl3HPNt6w)\]
 
 #### (3) NER, RE, EE
@@ -241,7 +255,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 * Few-shot Intent Classification and Slot Filling with Retrieved Examples (NAACL 2021) \[[paper](https://aclanthology.org/2021.naacl-main.59.pdf)\]
 * Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning (SIGIR 2022, Short Paper) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531746)\]
 * Decoupling Knowledge from Memorization: Retrieval-Augmented Prompt Learning (NeurIPS 2022, Spotlight) \[[paper](https://openreview.net/forum?id=Q8GnGqT-GTJ)\]
-* Retrieval-Augmented Generative Question Answering for Event Argument Extraction (EMNLP 2022) \[[paper](https://arxiv.org/abs/2211.07067)\]
+* Retrieval-Augmented Generative Question Answering for Event Argument Extraction (EMNLP 2022) \[[paper](https://aclanthology.org/2022.emnlp-main.307.pdf)\]
 
 #### Retrieval-based Language Models in Low-resource Scenarios
 * KNN-BERT: Fine-Tuning Pre-Trained Models with KNN Classifier (2021) \[[paper](https://arxiv.org/abs/2110.02523)\]
