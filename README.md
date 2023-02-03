@@ -100,10 +100,6 @@
 * Distant Supervision for Relation Extraction without Labeled Data (ACL 2009) \[[paper](https://aclanthology.org/P09-1113.pdf)\]
 * Neural Relation Extraction with Selective Attention over Instances (ACL 2016) \[[paper](https://aclanthology.org/P16-1200v2.pdf)\]
 * Automatically Labeled Data Generation for Large Scale Event Extraction (ACL 2017) \[[paper](https://aclanthology.org/P17-1038.pdf)\]
-<!--* Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions (AAAI 2017) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/10953)\]-->
-<!--* Reinforcement Learning for Relation Classification From Noisy Data (AAAI 2018) \[[paper](https://dl.acm.org/doi/abs/10.5555/3504035.3504744)\]-->
-<!--* Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning  (ACL 2018) \[[paper](https://aclanthology.org/P18-1199.pdf)\]-->
-<!--* Learning Named Entity Tagger using Domain-Specific Dictionary (EMNLP 2018) \[[paper](https://aclanthology.org/D18-1230.pdf)\]-->
 * Adversarial Training for Weakly Supervised Event Detection (NAACL 2019) \[[paper](https://aclanthology.org/N19-1105.pdf)\]
 * BOND: BERT-Assisted Open-Domain Named Entity Recognition with Distant Supervision (KDD 2020) \[[paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403149)\]
 * Gradient Imitation Reinforcement Learning for Low Resource Relation Extraction (EMNLP 2021) \[[paper](https://aclanthology.org/2021.emnlp-main.216.pdf)\]
