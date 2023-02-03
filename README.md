@@ -251,14 +251,14 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 📋 Thank you very much for your interest in our survey work. If you use or extend our survey, please cite the following paper:
 
 ```
-@inproceedings{2022_LowResKE,
+@inproceedings{2023_LowResKE,
     author    = {Shumin Deng and
                Ningyu Zhang and
                Bryan Hooi},
   title     = {Knowledge Extraction in Low-Resource Scenarios: Survey and Perspective},
   journal   = {CoRR},
   volume    = {abs/2202.08063},
-  year      = {2022},
+  year      = {2023},
   url       = {https://arxiv.org/abs/2202.08063},
   eprinttype = {arXiv},
   eprint    = {2202.08063}
