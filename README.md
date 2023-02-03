@@ -38,7 +38,7 @@
   * [2.3 Prompt Learning](#Prompt-Learning)
 * [**3. Exploiting Data and Models Together**](#3-Exploiting-Data-and-Models-Together)
   * [3.1 Multi-task Learning](#Multi-task-Learning)
-  * [3.2 Formulating KE as QA/MRC](#Formulating-KE-as-QA-and-MRC)
+  * [3.2 Task Reformulation](#Task-Reformulation)
   * [3.3 Retrieval Augmentation](#Retrieval-Augmentation)
 * [**How to Cite**](#How-to-Cite)
 
@@ -212,7 +212,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 * Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching (EMNLP 2018) \[[paper](https://aclanthology.org/D18-1517.pdf)\]
 
 
-### Formulating KE as QA and MRC
+### Task Reformulation
 * A Unified MRC Framework for Named Entity Recognition (ACL 2020) \[[paper](https://aclanthology.org/2020.acl-main.519.pdf)\]
 * Entity-Relation Extraction as Multi-Turn Question Answering (ACL 2019) \[[paper](http://aclanthology.lst.uni-saarland.de/P19-1129.pdf)\]
 * Zero-Shot Relation Extraction via Reading Comprehension (CoNLL 2017) \[[paper](https://aclanthology.org/K17-1034.pdf)\]
