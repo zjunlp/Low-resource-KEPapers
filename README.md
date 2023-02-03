@@ -15,7 +15,9 @@
 
 **ToolKit**: 
 
-- DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population [[project](https://github.com/NLP-Tutorials/AACL-IJCNLP2022-KGC-Tutorial)]
+- DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population [[paper](https://arxiv.org/abs/2201.03335), [project](https://github.com/zjunlp/DeepKE)]
+- OpenUE: An Open Toolkit of Universal Extraction from Text [[paper](https://aclanthology.org/2020.emnlp-demos.1.pdf), [project](https://github.com/zjunlp/OpenUE)]
+- OpenNRE [[project](https://github.com/thunlp/OpenNRE)]
 
 
 ## Content
