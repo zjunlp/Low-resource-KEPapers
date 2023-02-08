@@ -248,6 +248,8 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 * Event Extraction as Machine Reading Comprehension (EMNLP 2020) \[[paper](https://aclanthology.org/2020.emnlp-main.128.pdf)\]
 * Event Extraction by Answering (Almost) Natural Questions (EMNLP 2020) \[[paper](https://aclanthology.org/2020.emnlp-main.49.pdf)\]
 * Learning to Ask for Data-Efficient Event Argument Extraction (AAAI 2022, Student Abstract) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21686)\]
+* Unified Structure Generation for Universal Information Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.395.pdf)\]
+* Universal Information Extraction as Unified Semantic Matching (AAAI 2023) \[[paper](https://arxiv.org/abs/2301.03282)\]
 
 
 ### Retrieval Augmentation
