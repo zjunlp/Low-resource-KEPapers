@@ -216,6 +216,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 * Ontology-enhanced Prompt-tuning for Few-shot Learning (WWW 2022) \[[paper](https://dl.acm.org/doi/10.1145/3485447.3511921)\]
 * Unified Structure Generation for Universal Information Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.395.pdf)\]
 * DEGREE: A Data-Efficient Generation-Based Event Extraction Model (NAACL 2022) \[[paper](https://aclanthology.org/2022.naacl-main.138.pdf)\]
+* AugPrompt: Knowledgeable Augmented-Trigger Prompt for Few-Shot Event Classification (Information Processing & Management, 2022) \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457322002540)\]
 
 
 
