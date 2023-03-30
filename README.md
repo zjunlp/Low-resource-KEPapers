@@ -73,6 +73,7 @@
 * A Survey of Information Extraction Based on Deep Learning (Applied Sciences, 2022) \[[paper](https://www.mdpi.com/2076-3417/12/19/9691)\]
 * Generative Knowledge Graph Construction: A Review (EMNLP 2022) \[[paper](https://aclanthology.org/2022.emnlp-main.1.pdf)\]
 * Multi-Modal Knowledge Graph Construction and Application: A Survey (TKDE, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9961954)\]
+* Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples! (arXiv, 2023) \[[paper](https://arxiv.org/abs/2303.08559)\]
 <!--* Knowledge Extraction from Survey Data Using Neural Networks (Procedia Computer Science, 2013) \[[paper](https://www.sciencedirect.com/science/article/pii/S1877050913010995)\]-->
 
 ### Low-resource NLP
@@ -247,6 +248,8 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 * A Unified MRC Framework for Named Entity Recognition (ACL 2020) \[[paper](https://aclanthology.org/2020.acl-main.519.pdf)\]
 * Event Extraction as Machine Reading Comprehension (EMNLP 2020) \[[paper](https://aclanthology.org/2020.emnlp-main.128.pdf)\]
 * Event Extraction by Answering (Almost) Natural Questions (EMNLP 2020) \[[paper](https://aclanthology.org/2020.emnlp-main.49.pdf)\]
+* Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction (ACL 2021) \[[paper](https://aclanthology.org/2021.acl-long.217/)\]
+* Structured Prediction as Translation between Augmented Natural Languages (ICLR 2021) \[[paper](https://openreview.net/forum?id=US-TP-xnXI)\]
 * Learning to Ask for Data-Efficient Event Argument Extraction (AAAI 2022, Student Abstract) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21686)\]
 * Unified Structure Generation for Universal Information Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.395.pdf)\]
 * Universal Information Extraction as Unified Semantic Matching (AAAI 2023) \[[paper](https://arxiv.org/abs/2301.03282)\]
