@@ -13,7 +13,7 @@
 
 **ToolKit**: 
 
-- DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population [[paper](https://arxiv.org/abs/2201.03335), [project](https://github.com/zjunlp/DeepKE)]
+- DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population [[paper](https://aclanthology.org/2022.emnlp-demos.10/), [project](https://github.com/zjunlp/DeepKE)]
 - OpenUE: An Open Toolkit of Universal Extraction from Text [[paper](https://aclanthology.org/2020.emnlp-demos.1.pdf), [project](https://github.com/zjunlp/OpenUE)]
 - OpenNRE [[project](https://github.com/thunlp/OpenNRE)]
 
@@ -213,7 +213,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 * Dynamic Prefix-Tuning for Generative Template-based Event Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.358.pdf)\]
 
 #### (2) Augmented Prompt Learning
-* PTR: Prompt Tuning with Rules for Text Classification (2021) \[[paper](https://arxiv.org/abs/2105.11259)\]
+* PTR: Prompt Tuning with Rules for Text Classification (AI Open, 2022) \[[paper](https://www.sciencedirect.com/science/article/pii/S2666651022000183)\]
 * KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction (WWW 2022) \[[paper](https://dl.acm.org/doi/abs/10.1145/3485447.3511998)\]
 * Ontology-enhanced Prompt-tuning for Few-shot Learning (WWW 2022) \[[paper](https://dl.acm.org/doi/10.1145/3485447.3511921)\]
 * Unified Structure Generation for Universal Information Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.395.pdf)\]
