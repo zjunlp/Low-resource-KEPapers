@@ -264,6 +264,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 * Unified Structure Generation for Universal Information Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.395.pdf)\]
 * LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model (NeurIPS 2022) \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/63943ee9fe347f3d95892cf87d9a42e6-Abstract-Conference.html)\]
 * Universal Information Extraction as Unified Semantic Matching (AAAI 2023) \[[paper](https://arxiv.org/abs/2301.03282)\]
+* CODE4STRUCT: Code Generation for Few-Shot Structured Prediction from Natural Language (arXiv, 2022) \[[paper](https://arxiv.org/abs/2210.12810)\]
 
 
 ### Retrieval Augmentation
