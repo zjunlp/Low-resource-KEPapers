@@ -210,8 +210,8 @@ Named Entity Recognition Systems (Information Processing and Management, 2021) \
 #### (1) Vanilla Prompt Learning
 * Template-Based Named Entity Recognition Using BART (ACL 2021, Findings) \[[paper](https://aclanthology.org/2021.findings-acl.161.pdf)\]
 * LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.209.pdf)\]
-* Template-free Prompt Tuning for Few-shot NER (NAACL 2022) \[[paper](https://aclanthology.org/2022.naacl-main.420.pdf)\]
 * COPNER: Contrastive Learning with Prompt Guiding for Few-shot Named Entity Recognition (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.222.pdf)\]
+* Template-free Prompt Tuning for Few-shot NER (NAACL 2022) \[[paper](https://aclanthology.org/2022.naacl-main.420.pdf)\]
 * RelationPrompt: Leveraging Prompts to Generate Synthetic Data for
 Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-acl.5.pdf)\]
 * Dynamic Prefix-Tuning for Generative Template-based Event Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.358.pdf)\]
