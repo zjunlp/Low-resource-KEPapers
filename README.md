@@ -139,6 +139,7 @@
 * Neural Relation Extraction with Multi-lingual Attention (ACL 2017) \[[paper](https://aclanthology.org/P17-1004.pdf)\]
 * Improving Low Resource Named Entity Recognition using Cross-lingual Knowledge Transfer (IJCAI 2018) \[[paper](https://www.ijcai.org/Proceedings/2018/0566.pdf)\]
 * Event Detection via Gated Multilingual Attention Mechanism (AAAI 2018) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11919)\]
+* Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.382.pdf)\]
 * Cross-lingual Transfer Learning for Relation Extraction Using Universal Dependencies (Computer Speech & Language, 2022) \[[paper](https://www.sciencedirect.com/science/article/pii/S0885230821000711)\]
 * Language Model Priming for Cross-Lingual Event Extraction (AAAI 2022) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21307)\]
 
@@ -193,6 +194,8 @@
 * Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks (NAACL 2019) \[[paper](https://aclanthology.org/N19-1306.pdf)\]
 * Relation Adversarial Network for Low Resource Knowledge Graph Completion (WWW 2020) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380089)\]
 * Graph Learning Regularization and Transfer Learning for Few-Shot Event Detection (SIGIR 2021) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463054)\]
+* LearningToAdapt with Word Embeddings: Domain Adaptation of
+Named Entity Recognition Systems (Information Processing and Management, 2021) \[[paper](https://www.sciencedirect.com/science/article/pii/S0306457321000455)\]
 
 #### (2) Pre-trained Language Representations
 * Matching the Blanks: Distributional Similarity for Relation Learning (ACL 2019) \[[paper](https://aclanthology.org/P19-1279.pdf)\]
@@ -208,6 +211,7 @@
 * Template-Based Named Entity Recognition Using BART (ACL 2021, Findings) \[[paper](https://aclanthology.org/2021.findings-acl.161.pdf)\]
 * LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.209.pdf)\]
 * Template-free Prompt Tuning for Few-shot NER (NAACL 2022) \[[paper](https://aclanthology.org/2022.naacl-main.420.pdf)\]
+* COPNER: Contrastive Learning with Prompt Guiding for Few-shot Named Entity Recognition (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.222.pdf)\]
 * RelationPrompt: Leveraging Prompts to Generate Synthetic Data for
 Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-acl.5.pdf)\]
 * Dynamic Prefix-Tuning for Generative Template-based Event Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.358.pdf)\]
@@ -239,7 +243,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 
 #### (3) NER, RE, EE
 * Entity, Relation, and Event Extraction with Contextualized Span Representations (EMNLP 2019) \[[paper](https://aclanthology.org/D19-1585.pdf)\]
-* InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction (arXiv 2023) \[[paper](https://arxiv.org/abs/2304.08085)\]
+* InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2304.08085)\]
 
 #### (4) Word Sense Disambiguation (WSD), Event Detection (ED)
 * Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching (EMNLP 2018) \[[paper](https://aclanthology.org/D18-1517.pdf)\]
