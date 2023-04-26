@@ -1,10 +1,10 @@
-# Low-resource Knowledge Extraction
+# Low-resource Information Extraction
 
-🍎 The repository is a paper set on low-resource knowledge extraction (NER, RE, EE), which is categorized into three paradigms. 
+🍎 The repository is a paper set on low-resource information extraction (NER, RE, EE), which is categorized into three paradigms. 
 
 🤗 We strongly encourage the researchers who want to promote their fantastic work for the community to make pull request and update their papers in this repository! 
 
-**Survey Paper**: Knowledge Extraction in Low-Resource Scenarios: Survey and Perspective (2023) \[[paper](https://arxiv.org/abs/2202.08063)\] 
+**Survey Paper**: Information Extraction in Low-Resource Scenarios: Survey and Perspective (2023) \[[paper](https://arxiv.org/abs/2202.08063)\]
 
 **Slides**: 
 
@@ -19,11 +19,11 @@
 
 
 ## Content
-* [**0. Related Surveys on Low-resource KE**](#Related-Surveys-on-Low-resource-KE)
-  * [Knowledge Extraction](#Knowledge-Extraction)
+* [**0. Related Surveys on Low-resource IE**](#Related-Surveys-on-Low-resource-IE)
+  * [Information Extraction](#Information-Extraction)
   * [Low-resource NLP](#Low-resource-NLP)
   * [Low-resource Learning](#Low-resource-Learning)
-* [**0. Low-resource KE Datasets**](#Low-resource-KE-Datasets)
+* [**0. Low-resource IE Datasets**](#Low-resource-IE-Datasets)
   * [Low-resource NER](#Low-resource-NER)
   * [Low-resource RE](#Low-resource-RE)
   * [Low-resource EE](#Low-resource-EE)
@@ -32,7 +32,7 @@
   * [1.2 Multi-modal Augmentation](#Multi-modal-Augmentation)
   * [1.3 Multi-lingual Augmentation](#Multi-lingual-Augmentation)
   * [1.4 Auxiliary Knowledge Enhancement](#Auxiliary-Knowledge-Enhancement)
-* [**2. Exploiting Stronger Models**](#2-Exploiting-Stronger-Models)
+* [**2. Exploiting Stronger Data-Efficient Models**](#2-Exploiting-Stronger-Data-Efficient-Models)
   * [2.1 Meta Learning](#Meta-Learning)
   * [2.2 Transfer Learning](#Transfer-Learning)
   * [2.3 Prompt Learning](#Prompt-Learning)
@@ -44,9 +44,9 @@
 
 
 
-## Related Surveys on Low-resource KE
+## Related Surveys on Low-resource IE
 
-### Knowledge Extraction
+### Information Extraction
 #### NER
 * A Survey on Recent Advances in Named Entity Recognition from Deep Learning Models (COLING 2018) \[[paper](https://aclanthology.org/C18-1182.pdf)\]
 * A Survey on Deep Learning for Named Entity Recognition (TKDE, 2020) \[[paper](https://ieeexplore.ieee.org/abstract/document/9039685)\]
@@ -61,7 +61,7 @@
 * What is Event Knowledge Graph: A Survey (TKDE, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9792280)\]
 * A Survey on Deep Learning Event Extraction: Approaches and Applications (TNNLS, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9927311)\]
 
-#### General KE
+#### General IE
 * From Information to Knowledge: Harvesting Entities and Relationships from Web Sources (PODS 2010)  \[[paper](https://dl.acm.org/doi/abs/10.1145/1807085.1807097)\]
 * Knowledge Base Population: Successful Approaches and Challenges (ACL 2011) \[[paper](https://aclanthology.org/P11-1115.pdf)\]
 * Advances in Automated Knowledge Base Construction (NAACL-HLC 2012, AKBC-WEKEX workshop) \[[paper](https://www.semanticscholar.org/paper/Advances-in-Automated-Knowledge-Base-Construction-Suchanek/709e64be9cc9eb7c8b29bf49237cd2df835efd24)\]
@@ -75,6 +75,7 @@
 * Multi-Modal Knowledge Graph Construction and Application: A Survey (TKDE, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9961954)\]
 * A Survey on Multimodal Knowledge Graphs: Construction, Completion and Applications (Mathematics, 2023) \[[paper](https://www.mdpi.com/2227-7390/11/8/1815)\]
 * Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples! (arXiv, 2023) \[[paper](https://arxiv.org/abs/2303.08559)\]
+* Evaluating ChatGPT’s Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness (arXiv, 2023) \[[paper](https://arxiv.org/abs/2304.11633)\]
 <!--* Knowledge Extraction from Survey Data Using Neural Networks (Procedia Computer Science, 2013) \[[paper](https://www.sciencedirect.com/science/article/pii/S1877050913010995)\]-->
 
 ### Low-resource NLP
@@ -89,7 +90,7 @@
 
 
 
-## Low-resource KE Datasets
+## Low-resource IE Datasets
 
 ### Low-resource NER
 * {***Few-NERD***}: Few-NERD: A Few-shot Named Entity Recognition Dataset (EMNLP 2021) \[[paper](https://aclanthology.org/2021.acl-long.248.pdf), [data](https://ningding97.github.io/fewnerd/)\]
@@ -154,7 +155,7 @@
 * Leveraging FrameNet to Improve Automatic Event Detection (ACL 2016) \[[paper](https://aclanthology.org/P16-1201.pdf)\]
 * DOZEN: Cross-Domain Zero Shot Named Entity Recognition with Knowledge Graph (SIGIR 2021) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463113)\]
 
-#### (3) Ontology & Rule
+#### (3) Ontology & Logical Rules
 * Logic-guided Semantic Representation Learning for Zero-Shot Relation Classification (COLING 2020) \[[paper](https://aclanthology.org/2020.coling-main.265.pdf)\]
 * OntoED: Low-resource Event Detection with Ontology Embedding (ACL 2021) \[[paper](https://aclanthology.org/2021.acl-long.220.pdf)\]
 * Neuralizing Regular Expressions for Slot Filling (EMNLP 2021) \[[paper](https://aclanthology.org/2021.emnlp-main.747.pdf)\]
@@ -162,7 +163,7 @@
 
 
 
-## 2 Exploiting Stronger Models
+## 2 Exploiting Stronger Data-Efficient Models
 
 ### Meta Learning
 
@@ -273,7 +274,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 
 ### Retrieval Augmentation
 
-#### Retrieval-based Low-resource KE
+#### Retrieval-based Low-resource IE
 * Few-shot Intent Classification and Slot Filling with Retrieved Examples (NAACL 2021) \[[paper](https://aclanthology.org/2021.naacl-main.59.pdf)\]
 * Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning (SIGIR 2022, Short Paper) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531746)\]
 * Decoupling Knowledge from Memorization: Retrieval-Augmented Prompt Learning (NeurIPS 2022, Spotlight) \[[paper](https://openreview.net/forum?id=Q8GnGqT-GTJ)\]
@@ -304,7 +305,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
     author    = {Shumin Deng and
                  Ningyu Zhang and
                  Bryan Hooi},
-    title     = {Knowledge Extraction in Low-Resource Scenarios: Survey and Perspective},
+    title     = {Information Extraction in Low-Resource Scenarios: Survey and Perspective},
     journal   = {CoRR},
     volume    = {abs/2202.08063},
     year      = {2023},
