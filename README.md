@@ -55,11 +55,14 @@
 * A Survey on Neural Relation Extraction (Science China Technological Sciences, 2020) \[[paper](https://link.springer.com/article/10.1007/s11431-020-1673-6)\]
 * Relation Extraction: A Brief Survey on Deep Neural Network Based Methods (ICSIM 2021) \[[paper](https://dl.acm.org/doi/abs/10.1145/3451471.3451506)\]
 * Deep Neural Network-Based Relation Extraction: An Overview (Neural Computing and Applications, 2022) \[[paper](https://link.springer.com/article/10.1007/s00521-021-06667-3)\]
+* GPT-RE: In-context Learning for Relation Extraction using Large Language Models (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.02105)\]
 
 #### EE
 * A Survey of Event Extraction From Text (ACCESS, 2019) \[[paper](https://ieeexplore.ieee.org/document/8918013)\]
 * What is Event Knowledge Graph: A Survey (TKDE, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9792280)\]
 * A Survey on Deep Learning Event Extraction: Approaches and Applications (TNNLS, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9927311)\]
+* Few-shot Event Detection: An Empirical Study and a Unified View (ACL 2023) \[[paper](https://arxiv.org/abs/2305.01901)\]
+* Exploring the Feasibility of ChatGPT for Event Extraction (arXiv, 2023) [[paper](https://arxiv.org/abs/2303.03836)\]
 
 #### General IE
 * From Information to Knowledge: Harvesting Entities and Relationships from Web Sources (PODS 2010)  \[[paper](https://dl.acm.org/doi/abs/10.1145/1807085.1807097)\]
@@ -251,6 +254,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 
 #### (5) NER, RE, EE & Other Structure Prediction Tasks
 * DeepStruct: Pretraining of Language Models for Structure Prediction (ACL 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-acl.67v2.pdf)\]
+* RexUIE: A Recursive Method with Explicit Schema Instructor for Universal Information Extraction \[[paper](https://arxiv.org/abs/2304.14770)\]
 
 
 ### Task Reformulation
@@ -262,6 +266,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 * Event Extraction as Machine Reading Comprehension (EMNLP 2020) \[[paper](https://aclanthology.org/2020.emnlp-main.128.pdf)\]
 * Event Extraction by Answering (Almost) Natural Questions (EMNLP 2020) \[[paper](https://aclanthology.org/2020.emnlp-main.49.pdf)\]
 * Learning to Ask for Data-Efficient Event Argument Extraction (AAAI 2022, Student Abstract) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21686)\]
+* Zero-Shot Information Extraction via Chatting with ChatGPT (arXiv, 2023) \[[paper](https://arxiv.org/abs/2302.10205)\]
 
 #### Text Generation
 * Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction (ACL 2021) \[[paper](https://aclanthology.org/2021.acl-long.217/)\]
@@ -269,7 +274,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 * Unified Structure Generation for Universal Information Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.395.pdf)\]
 * LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model (NeurIPS 2022) \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/63943ee9fe347f3d95892cf87d9a42e6-Abstract-Conference.html)\]
 * Universal Information Extraction as Unified Semantic Matching (AAAI 2023) \[[paper](https://arxiv.org/abs/2301.03282)\]
-* CODE4STRUCT: Code Generation for Few-Shot Structured Prediction from Natural Language (arXiv, 2022) \[[paper](https://arxiv.org/abs/2210.12810)\]
+* CODE4STRUCT: Code Generation for Few-Shot Structured Prediction from Natural Language (ACL 2023) \[[paper](https://arxiv.org/abs/2210.12810)\]
 
 
 ### Retrieval Augmentation
