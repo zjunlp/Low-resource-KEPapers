@@ -163,6 +163,7 @@
 * Distilling Discrimination and Generalization Knowledge for Event Detection via Delta-Representation Learning (ACL 2021) \[[paper](https://aclanthology.org/P19-1429.pdf)\]
 * MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER  (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.160.pdf)\]
 * Mask-then-Fill: A Flexible and Effective Data Augmentation Framework for Event Extraction (EMNLP 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-emnlp.332.pdf)\]
+* GDA: Generative Data Augmentation Techniques for Relation Extraction Tasks (ACL 2023, Findings) \[[paper](https://arxiv.org/abs/2305.16663)\]
 * Enhancing Few-shot NER with Prompt Ordering based Data Augmentation (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.11791)\]
 * STAR: Boosting Low-Resource Event Extraction by Structure-to-Text Data Generation with Large Language Models (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.15090)\]
 
@@ -233,9 +234,9 @@ Named Entity Recognition Systems (Information Processing and Management, 2021) \
 * LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.209.pdf)\]
 * COPNER: Contrastive Learning with Prompt Guiding for Few-shot Named Entity Recognition (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.222.pdf)\]
 * Template-free Prompt Tuning for Few-shot NER (NAACL 2022) \[[paper](https://aclanthology.org/2022.naacl-main.420.pdf)\]
-* RelationPrompt: Leveraging Prompts to Generate Synthetic Data for
-Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-acl.5.pdf)\]
+* RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-acl.5.pdf)\]
 * Dynamic Prefix-Tuning for Generative Template-based Event Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.358.pdf)\]
+* Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.466.pdf)\]
 * Prompt-Learning for Cross-Lingual Relation Extraction (IJCNN 2023) \[[paper](https://arxiv.org/abs/2304.10354)\]
 
 #### (2) Augmented Prompt Learning
@@ -246,6 +247,8 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 * AugPrompt: Knowledgeable Augmented-Trigger Prompt for Few-Shot Event Classification (Information Processing & Management, 2022) \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457322002540)\]
 * Schema-aware Reference as Prompt Improves Data-Efficient Relational Triple and Event Extraction (SIGIR 2023) \[[paper](https://arxiv.org/abs/2210.10709)\]
 * A Composable Generative Framework based on Prompt Learning for Various Information Extraction Tasks (IEEE Transactions on Big Data, 2023) \[[paper](https://ieeexplore.ieee.org/abstract/document/10130644)\]
+* PromptNER: Prompt Locating and Typing for Named Entity Recognition (ACL 2023) \[[paper](https://arxiv.org/abs/2305.17104)\]
+* AMPERE: AMR-Aware Prefix for Generation-Based Event Argument Extraction Model (ACL 2023) \[[paper](https://arxiv.org/abs/2305.16734)\]
 * MsPrompt: Multi-step Prompt Learning for Debiasing Few-shot Event Detection (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.09335)\]
 * PromptNER: A Prompting Method for Few-shot Named Entity Recognition via k Nearest Neighbor Search (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.12217)\]
 <!--Unified Structure Generation for Universal Information Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.395.pdf)\]-->
@@ -300,7 +303,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 * CODE4STRUCT: Code Generation for Few-Shot Structured Prediction from Natural Language (ACL 2023) \[[paper](https://arxiv.org/abs/2210.12810)\]
 * CodeIE: Large Code Generation Models are Better Few-Shot Information Extractors (ACL 2023) \[[paper](https://arxiv.org/abs/2305.05711)\]
 * Easy-to-Hard Learning for Information Extraction (ACL 2023, Findings) \[[paper](https://arxiv.org/abs/2305.09193)\]
-* How to Unleash the Power of Large Language Models for Few-shot Relation Extraction? (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.01555)\]
+* How to Unleash the Power of Large Language Models for Few-shot Relation Extraction? (ACL 2023, SustaiNLP Workshop) [[paper](https://arxiv.org/abs/2305.01555)\]
 * GPT-RE: In-context Learning for Relation Extraction using Large Language Models (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.02105)\]
 
 
