@@ -11,13 +11,14 @@
 
 - Data-Efficient Knowledge Graph Construction, 高效知识图谱构建 ([Tutorial on CCKS 2022](http://sigkg.cn/ccks2022/?page_id=24)) \[[slides](https://drive.google.com/drive/folders/1xqeREw3dSiw-Y1rxLDx77r0hGUvHnuuE)\] 
 - Efficient and Robust Knowledge Graph Construction ([Tutorial on AACL-IJCNLP 2022](https://www.aacl2022.org/Program/tutorials)) \[[paper](https://aclanthology.org/2022.aacl-tutorials.1.pdf), [slides](https://github.com/NLP-Tutorials/AACL-IJCNLP2022-KGC-Tutorial)\] 
-- Open-Environment Knowledge Graph Construction and Reasoning: Challenges, Approaches, and Opportunities ([Tutorial on IJCAI 2023](https://ijcai-23.org/tutorials/))  \[[paper](), [slides]()\]
+- Open-Environment Knowledge Graph Construction and Reasoning: Challenges, Approaches, and Opportunities ([Tutorial on IJCAI 2023](https://ijcai-23.org/tutorials/))  \[[paper](), [slides](https://openkg-tutorial.github.io/)\]
 
 🛠️ **ToolKit**: 
 
 - DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population [[paper](https://aclanthology.org/2022.emnlp-demos.10/), [project](https://github.com/zjunlp/DeepKE)]
 - OpenUE: An Open Toolkit of Universal Extraction from Text [[paper](https://aclanthology.org/2020.emnlp-demos.1.pdf), [project](https://github.com/zjunlp/OpenUE)]
 - Zshot: An Open-source Framework for Zero-Shot Named Entity Recognition and Relation Extraction [[paper](https://aclanthology.org/2023.acl-demo.34/), [project](https://github.com/IBM/zshot)]
+- OmniEvent [[paper](https://aclanthology.org/2023.findings-acl.586.pdf), [project](https://github.com/THU-KEG/OmniEvent)]
 - OpenNRE [[project](https://github.com/thunlp/OpenNRE)]
 - GPT4IE [[project](https://github.com/cocacola-lab/GPT4IE)]
 - ChatIE [[paper](https://arxiv.org/abs/2302.10205), [project](https://github.com/cocacola-lab/ChatIE)]
@@ -89,6 +90,8 @@
 * Evaluating ChatGPT’s Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness (arXiv, 2023) \[[paper](https://arxiv.org/abs/2304.11633)\] 
 * Is Information Extraction Solved by ChatGPT? An Analysis of Performance, Evaluation Criteria, Robustness and Errors (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.14450)\]
 * LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.13168)\]
+* Large Language Models and Knowledge Graphs:
+Opportunities and Challenges (arXiv, 2023) \[[paper](https://arxiv.org/abs/2308.06374)\]
 <!--* Knowledge Extraction from Survey Data Using Neural Networks (Procedia Computer Science, 2013) \[[paper](https://www.sciencedirect.com/science/article/pii/S1877050913010995)\]-->
 
 ### Low-resource NLP
@@ -263,6 +266,7 @@ Named Entity Recognition Systems (Information Processing and Management, 2021) \
 * A Composable Generative Framework based on Prompt Learning for Various Information Extraction Tasks (IEEE Transactions on Big Data, 2023) \[[paper](https://ieeexplore.ieee.org/abstract/document/10130644)\]
 * PromptNER: Prompt Locating and Typing for Named Entity Recognition (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.698.pdf)\]
 * AMPERE: AMR-Aware Prefix for Generation-Based Event Argument Extraction Model (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.615.pdf)\]
+* BertNet: Harvesting Knowledge Graphs with Arbitrary Relations from Pretrained Language Models (ACL 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-acl.309.pdf)\]
 * MsPrompt: Multi-step Prompt Learning for Debiasing Few-shot Event Detection (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.09335)\]
 * PromptNER: A Prompting Method for Few-shot Named Entity Recognition via k Nearest Neighbor Search (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.12217)\]
 * TKDP: Threefold Knowledge-enriched Deep Prompt Tuning for Few-shot Named Entity Recognition (arXiv, 2023) \[[paper](https://arxiv.org/abs/2306.03974)\]
@@ -307,6 +311,7 @@ Named Entity Recognition Systems (Information Processing and Management, 2021) \
 * Event Extraction by Answering (Almost) Natural Questions (EMNLP 2020) \[[paper](https://aclanthology.org/2020.emnlp-main.49.pdf)\]
 * Learning to Ask for Data-Efficient Event Argument Extraction (AAAI 2022, Student Abstract) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21686)\]
 * Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors (ACL 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-acl.50.pdf)\]
+* Complex Question Enhanced Transfer Learning for Zero-shot Joint Information Extraction (TASLP, 2023) \[[paper](https://ieeexplore.ieee.org/abstract/document/10214665)\]
 * Zero-Shot Information Extraction via Chatting with ChatGPT (arXiv, 2023) \[[paper](https://arxiv.org/abs/2302.10205)\]
 
 #### Text-to-Structure Generation
@@ -321,6 +326,7 @@ Named Entity Recognition Systems (Information Processing and Management, 2021) \
 * How to Unleash the Power of Large Language Models for Few-shot Relation Extraction? (ACL 2023, SustaiNLP Workshop) [[paper](https://aclanthology.org/2023.sustainlp-1.13.pdf)\]
 * GPT-NER: Named Entity Recognition via Large Language Models (arXiv, 2023) [[paper](https://arxiv.org/abs/2304.10428)\]
 * GPT-RE: In-context Learning for Relation Extraction using Large Language Models (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.02105)\]
+* UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition (arXiv, 2023) [[paper](https://arxiv.org/abs/2308.03279)\]
 
 
 ### Retrieval Augmentation
