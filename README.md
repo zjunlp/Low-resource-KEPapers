@@ -16,8 +16,8 @@
 
 
 ## Content
-* [**🛠️ Low-Resource IE Toolkits**](#🛠️-Low-Resource-IE-Toolkits)
-* [**📊 Low-Resource IE Datasets**](#📊-Low-Resource-IE-Datasets)
+* [**🛠️ Low-Resource IE Toolkits**](#%EF%B8%8F-Low-Resource-IE-Toolkits)
+* [**📊 Low-Resource IE Datasets**](#-Low-Resource-IE-Datasets)
   * [Low-Resource NER](#Low-Resource-NER)
   * [Low-Resource RE](#Low-Resource-RE)
   * [Low-Resource EE](#Low-Resource-EE)
