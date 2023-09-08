@@ -16,12 +16,12 @@
 
 
 ## Content
-* [**🛠️ Low-Resource IE Toolkits**](#Low-Resource-IE-Toolkits)
-* [**📊 Low-Resource IE Datasets**](#Low-Resource-IE-Datasets)
+* [**🛠️ Low-Resource IE Toolkits**](#🛠️-Low-Resource-IE-Toolkits)
+* [**📊 Low-Resource IE Datasets**](#📊-Low-Resource-IE-Datasets)
   * [Low-Resource NER](#Low-Resource-NER)
   * [Low-Resource RE](#Low-Resource-RE)
   * [Low-Resource EE](#Low-Resource-EE)
-* [**0. Related Surveys/Analysis on Low-resource IE**](#Related-Surveys/Analysis-on-Low-resource-IE)
+* [**0. Related Surveys/Analysis on Low-Resource IE**](#Related-Surveys-and-Analysis-on-Low-Resource-IE)
   * [Information Extraction](#Information-Extraction)
   * [Low-Resource NLP Learning](#Low-Resource-NLP-Learning)
 * [**1. Exploiting Higher-Resource Data**](#1-Exploiting-Higher-Resource-Data)
@@ -73,7 +73,7 @@
 * {***FewDocAE***}: Few-Shot Document-Level Event Argument Extraction (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.446.pdf), [data](https://github.com/Xianjun-Yang/FewDocAE)\]
 
 
-## Related Surveys/Analysis on Low-resource IE
+## Related Surveys and Analysis on Low-Resource IE
 
 ### Information Extraction
 #### NER
