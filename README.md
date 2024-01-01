@@ -168,11 +168,11 @@
 * Improving Open Information Extraction with Large Language Models: A Study on Demonstration Uncertainty (arXiv, 2023) \[[paper](https://arxiv.org/abs/2309.03433)\]
 * LOKE: Linked Open Knowledge Extraction for Automated Knowledge Graph Construction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2311.09366)\]
 * LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.13168)\]
+* Large Language Models for Generative Information Extraction: A Survey (arXiv, 2023) \[[paper](https://arxiv.org/abs/2312.17617)\]
 * Large Language Models and Knowledge Graphs: Opportunities and Challenges (TGDK, 2023) \[[paper](https://drops.dagstuhl.de/storage/08tgdk/tgdk-vol001/tgdk-vol001-issue001/TGDK.1.1.2/TGDK.1.1.2.pdf)\]
 * Unifying Large Language Models and Knowledge Graphs: A Roadmap (arXiv, 2023) \[[paper](https://arxiv.org/abs/2306.08302)\]
 * Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications (arXiv, 2023) \[[paper](https://arxiv.org/abs/2311.05876)\]
 * Large Knowledge Model: Perspectives and Challenges (arXiv, 2023) \[[paper](https://arxiv.org/abs/2312.02706)\]
-* Large Language Models for Generative Information Extraction: A Survey (arXiv, 2023) \[[paper](https://arxiv.org/abs/2312.17617)\]
 * Knowledge Bases and Language Models: Complementing Forces (RuleML+RR, 2023) \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-45072-3_1)\]
 * StructGPT: A General Framework for Large Language Model to Reason over Structured Data (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.574.pdf)\]
 <!--* Knowledge Extraction from Survey Data Using Neural Networks (Procedia Computer Science, 2013) \[[paper](https://www.sciencedirect.com/science/article/pii/S1877050913010995)\]-->
