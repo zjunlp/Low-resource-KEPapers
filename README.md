@@ -80,10 +80,12 @@
 - DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population [[paper](https://aclanthology.org/2022.emnlp-demos.10/), [project](https://github.com/zjunlp/DeepKE)]
 - OpenUE: An Open Toolkit of Universal Extraction from Text [[paper](https://aclanthology.org/2020.emnlp-demos.1.pdf), [project](https://github.com/zjunlp/OpenUE)]
 - Zshot: An Open-source Framework for Zero-Shot Named Entity Recognition and Relation Extraction [[paper](https://aclanthology.org/2023.acl-demo.34/), [project](https://github.com/IBM/zshot)]
-- OmniEvent [[paper](https://aclanthology.org/2023.findings-acl.586.pdf), [project](https://github.com/THU-KEG/OmniEvent)]
-- OpenNRE [[project](https://github.com/thunlp/OpenNRE)]
+- OpenNRE [[paper](https://aclanthology.org/D19-3029.pdf), [project](https://github.com/thunlp/OpenNRE)]
+- OmniEvent [[paper1](https://aclanthology.org/2023.emnlp-demo.46.pdf), [paper2](https://aclanthology.org/2023.findings-acl.586.pdf), [project](https://github.com/THU-KEG/OmniEvent)]
 
 ### LLM-Based Toolkits
+<!--- CollabKG: A Learnable Human-Machine-Cooperative Information Extraction Toolkit for (Event) Knowledge Graph Construction [[paper](https://arxiv.org/abs/2307.00769), [project](https://github.com/cocacola-lab/CollabKG)]-->
+- CollabKG: A Learnable Human-Machine-Cooperative Information Extraction Toolkit for (Event) Knowledge Graph Construction [[paper](https://arxiv.org/abs/2307.00769)]
 - GPT4IE [[project](https://github.com/cocacola-lab/GPT4IE)]
 - ChatIE [[paper](https://arxiv.org/abs/2302.10205), [project](https://github.com/cocacola-lab/ChatIE)]
 - TechGPT: Technology-Oriented Generative Pretrained Transformer [[project](https://github.com/neukg/TechGPT)] 
@@ -118,6 +120,7 @@
 * A Survey on Deep Learning for Named Entity Recognition (TKDE, 2020) \[[paper](https://ieeexplore.ieee.org/abstract/document/9039685)\]
 * Few-Shot Named Entity Recognition: An Empirical Baseline Study (EMNLP 2021) \[[paper](https://aclanthology.org/2021.emnlp-main.813.pdf)\]
 * Few-shot Named Entity Recognition: definition, taxonomy and research directions (TIST, 2023) \[[paper](https://dl.acm.org/doi/10.1145/3609483)\]
+* Comprehensive Overview of Named Entity Recognition: Models, Domain-Specific Applications and Challenges (arXiv, 2023) \[[paper](https://arxiv.org/abs/2309.14084)\]
 
 #### RE
 * A Survey on Neural Relation Extraction (Science China Technological Sciences, 2020) \[[paper](https://link.springer.com/article/10.1007/s11431-020-1673-6)\]
@@ -131,6 +134,7 @@
 * What is Event Knowledge Graph: A Survey (TKDE, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9792280)\]
 * A Survey on Deep Learning Event Extraction: Approaches and Applications (TNNLS, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9927311)\]
 * Event Extraction: A Survey (2022) [[paper](https://arxiv.org/abs/2210.03419)\]
+* Low Resource Event Extraction: A Survey (2022) [[paper](https://www.cs.uoregon.edu/Reports/AREA-202210-Lai.pdf)\]
 * Few-shot Event Detection: An Empirical Study and a Unified View (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.628.pdf)\]
 * Exploring the Feasibility of ChatGPT for Event Extraction (arXiv, 2023) [[paper](https://arxiv.org/abs/2303.03836)\]
 * A Reevaluation of Event Extraction: Past, Present, and Future Challenges (arXiv, 2023) [[paper](https://arxiv.org/abs/2311.09562)\]
@@ -146,9 +150,10 @@
 * Populating Knowledge Bases (Part of The Information Retrieval Series book series, 2018) \[[paper](https://link.springer.com/chapter/10.1007/978-3-319-93935-3_6)\]
 * A Survey on Open Information Extraction (COLING 2018) \[[paper](https://aclanthology.org/C18-1326.pdf)\]
 * A Survey on Automatically Constructed Universal Knowledge Bases (Journal of Information Science, 2020) \[[paper](https://journals.sagepub.com/doi/abs/10.1177/0165551520921342)\]
-* Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases (Submitted to Foundations and Trends in Databases, 2020) [[paper](https://arxiv.org/abs/2009.11564)\]
+* Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases (Foundations and Trends in Databases, 2021) [[paper](https://dl.acm.org/doi/10.1561/1900000064)\]
 * A Survey on Knowledge Graphs: Representation, Acquisition and Applications (TNNLS, 2021) \[[paper](https://ieeexplore.ieee.org/document/9416312)\]
 * Neural Symbolic Reasoning with Knowledge Graphs: Knowledge Extraction, Relational Reasoning, and Inconsistency Checking (Fundamental Research, 2021) \[[paper](https://www.sciencedirect.com/science/article/pii/S266732582100159X)\]
+* A Survey on Neural Open Information Extraction: Current Status and Future Directions (IJCAI 2022) \[[paper](https://www.ijcai.org/proceedings/2022/0793.pdf)\]
 * A Survey of Information Extraction Based on Deep Learning (Applied Sciences, 2022) \[[paper](https://www.mdpi.com/2076-3417/12/19/9691)\]
 * Generative Knowledge Graph Construction: A Review (EMNLP 2022) \[[paper](https://aclanthology.org/2022.emnlp-main.1.pdf)\]
 * Multi-Modal Knowledge Graph Construction and Application: A Survey (TKDE, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9961954)\]
@@ -163,10 +168,11 @@
 * Improving Open Information Extraction with Large Language Models: A Study on Demonstration Uncertainty (arXiv, 2023) \[[paper](https://arxiv.org/abs/2309.03433)\]
 * LOKE: Linked Open Knowledge Extraction for Automated Knowledge Graph Construction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2311.09366)\]
 * LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.13168)\]
-* Large Language Models and Knowledge Graphs: Opportunities and Challenges (arXiv, 2023) \[[paper](https://arxiv.org/abs/2308.06374)\]
+* Large Language Models and Knowledge Graphs: Opportunities and Challenges (TGDK, 2023) \[[paper](https://drops.dagstuhl.de/storage/08tgdk/tgdk-vol001/tgdk-vol001-issue001/TGDK.1.1.2/TGDK.1.1.2.pdf)\]
 * Unifying Large Language Models and Knowledge Graphs: A Roadmap (arXiv, 2023) \[[paper](https://arxiv.org/abs/2306.08302)\]
 * Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications (arXiv, 2023) \[[paper](https://arxiv.org/abs/2311.05876)\]
 * Large Knowledge Model: Perspectives and Challenges (arXiv, 2023) \[[paper](https://arxiv.org/abs/2312.02706)\]
+* Large Language Models for Generative Information Extraction: A Survey (arXiv, 2023) \[[paper](https://arxiv.org/abs/2312.17617)\]
 * Knowledge Bases and Language Models: Complementing Forces (RuleML+RR, 2023) \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-45072-3_1)\]
 * StructGPT: A General Framework for Large Language Model to Reason over Structured Data (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.574.pdf)\]
 <!--* Knowledge Extraction from Survey Data Using Neural Networks (Procedia Computer Science, 2013) \[[paper](https://www.sciencedirect.com/science/article/pii/S1877050913010995)\]-->
@@ -178,8 +184,11 @@
 * Generalizing from a Few Examples: A Survey on Few-shot Learning (ACM Computing Surveys, 2021) \[[paper](https://dl.acm.org/doi/10.1145/3386252)\]
 * Knowledge-aware Zero-Shot Learning: Survey and Perspective (IJCAI 2021) \[[paper](https://www.ijcai.org/proceedings/2021/0597.pdf)\]
 * Generalizing to Unseen Elements: A Survey on Knowledge Extrapolation for Knowledge Graphs (IJCAI 2023) \[[paper](https://www.ijcai.org/proceedings/2023/0737.pdf)\]
-* Zero-shot and Few-shot Learning with Knowledge Graphs: A Comprehensive Survey (Proceedings of the IEEE, 2023) \[[paper](https://arxiv.org/abs/2112.10006)\]
+* Zero-shot and Few-shot Learning with Knowledge Graphs: A Comprehensive Survey (Proceedings of the IEEE, 2023) \[[paper](https://ieeexplore.ieee.org/document/10144560)\]
 * A Survey on Machine Learning from Few Samples (Pattern Recognition, 2023) \[[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001802)\]
+* Multi-Hop Knowledge Graph Reasoning in Few-Shot Scenarios (TKDE, 2023) \[[paper](https://ieeexplore.ieee.org/document/10216353)\]
+* An Empirical Survey of Data Augmentation for Limited Data Learning in NLP (TACL, 2023) \[[paper](https://aclanthology.org/2023.tacl-1.12.pdf)\]
+* Efficient Methods for Natural Language Processing: A Survey (TACL, 2023) \[[paper](https://aclanthology.org/2023.tacl-1.48.pdf)\]
 
 
 ## 🍎 Traditional Methods 🍎
@@ -300,6 +309,7 @@ with Knowledge Bases (WWW 2017) \[[paper](https://dl.acm.org/doi/abs/10.1145/303
 * Consistent Prototype Learning for Few-Shot Continual Relation Extraction (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.409.pdf)\]
 * RAPL: A Relation-Aware Prototype Learning Approach for
 Few-Shot Document-Level Relation Extraction (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.316.pdf)\]
+* Density-Aware Prototypical Network for Few-Shot Relation Classification (EMNLP 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-emnlp.162.pdf)\]
 * Improving few-shot relation extraction through semantics-guided learning (Neural Networks, 2023) \[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023006196)\]
 * Generative Meta-Learning for Zero-Shot Relation Triplet Extraction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.01920)\]
 
@@ -335,11 +345,11 @@ Few-Shot Document-Level Relation Extraction (EMNLP 2023) \[[paper](https://aclan
 * Few-shot Named Entity Recognition with Self-describing Networks (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.392.pdf)\]
 * Query and Extract: Refining Event Extraction as Type-oriented Binary Decoding (ACL 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-acl.16.pdf)\]
 * Unleashing Pre-trained Masked Language Model Knowledge for Label Signal Guided Event Detection (DASFAA 2023) \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_42)\]
-* A Multi-Task Semantic Decomposition Framework with
-Task-specific Pre-training for Few-Shot NER (CIKM 2023) \[[paper](https://arxiv.org/abs/2308.14533)\]
+* A Multi-Task Semantic Decomposition Framework with Task-specific Pre-training for Few-Shot NER (CIKM 2023) \[[paper](https://dl.acm.org/doi/10.1145/3583780.3614766)\]
 * Continual Contrastive Finetuning Improves Low-Resource Relation Extraction (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.739.pdf)\]
 * Unified Low-Resource Sequence Labeling by Sample-Aware Dynamic Sparse Finetuning (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.433.pdf)\]
 * GLiNER: Generalist Model for Named Entity Recognition using Bidirectional Transformer (arXiv, 2023) \[[paper](https://arxiv.org/abs/2311.08526)\]
+* Synergistic Anchored Contrastive Pre-training for Few-Shot Relation Extraction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2312.12021)\]
 
 
 
@@ -465,6 +475,7 @@ Task-specific Pre-training for Few-Shot NER (CIKM 2023) \[[paper](https://arxiv.
 * GPT-RE: In-context Learning for Relation Extraction using Large Language Models (EMNLP 2023) [[paper](https://aclanthology.org/2023.emnlp-main.214.pdf)\]
 * Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples! (EMNLP 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-emnlp.710.pdf)\]
 * Guideline Learning for In-Context Information Extraction (EMNLP 2023) [[paper](https://aclanthology.org/2023.emnlp-main.950.pdf)\]
+* Pipeline Chain-of-Thought: A Prompt Method for Large Language Model Relation Extraction (IALP 2023) [[paper](https://ieeexplore.ieee.org/document/10337264)\]
 * GPT-NER: Named Entity Recognition via Large Language Models (arXiv, 2023) [[paper](https://arxiv.org/abs/2304.10428)\]
 * In-Context Few-Shot Relation Extraction via Pre-Trained Language Models (arXiv, 2023) [[paper](https://arxiv.org/abs/2310.11085)\]
 * Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models (arXiv, 2023) [[paper](https://arxiv.org/abs/2311.08921)\]
