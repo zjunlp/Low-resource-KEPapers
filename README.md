@@ -162,6 +162,7 @@
 
 **LLM-based IE**
 
+* Empirical Study of Zero-Shot NER with ChatGPT (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.493.pdf)\]
 * Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples! (EMNLP 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-emnlp.710.pdf)\]
 * Evaluating ChatGPT’s Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness (arXiv, 2023) \[[paper](https://arxiv.org/abs/2304.11633)\] 
 * Is Information Extraction Solved by ChatGPT? An Analysis of Performance, Evaluation Criteria, Robustness and Errors (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.14450)\]
@@ -169,12 +170,15 @@
 * LOKE: Linked Open Knowledge Extraction for Automated Knowledge Graph Construction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2311.09366)\]
 * LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.13168)\]
 * Large Language Models for Generative Information Extraction: A Survey (arXiv, 2023) \[[paper](https://arxiv.org/abs/2312.17617)\]
+* Exploiting Asymmetry for Synthetic Training Data Generation: SynthIE and the Case of Information Extraction (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.96.pdf)\]
+* LLMaAA: Making Large Language Models as Active Annotators (EMNLP 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-emnlp.872.pdf)\]
 * Large Language Models and Knowledge Graphs: Opportunities and Challenges (TGDK, 2023) \[[paper](https://drops.dagstuhl.de/storage/08tgdk/tgdk-vol001/tgdk-vol001-issue001/TGDK.1.1.2/TGDK.1.1.2.pdf)\]
 * Unifying Large Language Models and Knowledge Graphs: A Roadmap (arXiv, 2023) \[[paper](https://arxiv.org/abs/2306.08302)\]
 * Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications (arXiv, 2023) \[[paper](https://arxiv.org/abs/2311.05876)\]
 * Large Knowledge Model: Perspectives and Challenges (arXiv, 2023) \[[paper](https://arxiv.org/abs/2312.02706)\]
 * Knowledge Bases and Language Models: Complementing Forces (RuleML+RR, 2023) \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-45072-3_1)\]
 * StructGPT: A General Framework for Large Language Model to Reason over Structured Data (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.574.pdf)\]
+* Preserving Knowledge Invariance: Rethinking Robustness Evaluation of Open Information Extraction (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.360.pdf)\]
 <!--* Knowledge Extraction from Survey Data Using Neural Networks (Procedia Computer Science, 2013) \[[paper](https://www.sciencedirect.com/science/article/pii/S1877050913010995)\]-->
 
 ### Low-Resource NLP Learning
@@ -235,6 +239,7 @@ with Knowledge Bases (WWW 2017) \[[paper](https://dl.acm.org/doi/abs/10.1145/303
 * Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.382.pdf)\]
 * Cross-lingual Transfer Learning for Relation Extraction Using Universal Dependencies (Computer Speech & Language, 2022) \[[paper](https://www.sciencedirect.com/science/article/pii/S0885230821000711)\]
 * Language Model Priming for Cross-Lingual Event Extraction (AAAI 2022) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21307)\]
+* Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.317.pdf)\]
 * PRAM: An End-to-end Prototype-based Representation Alignment Model for Zero-resource Cross-lingual Named Entity Recognition (ACL 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-acl.201.pdf)\]
 * Retrieving Relevant Context to Align Representations for Cross-lingual Event Detection (ACL 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-acl.135.pdf)\]
 * Hybrid Knowledge Transfer for Improved Cross-Lingual Event Detection via Hierarchical Sample Selection (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.296.pdf)\]
@@ -254,16 +259,20 @@ with Knowledge Bases (WWW 2017) \[[paper](https://dl.acm.org/doi/abs/10.1145/303
 * Mask-then-Fill: A Flexible and Effective Data Augmentation Framework for Event Extraction (EMNLP 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-emnlp.332.pdf)\]
 * Low-Resource NER by Data Augmentation With Prompting (IJCAI 2022) [[paper](https://www.ijcai.org/proceedings/2022/0590.pdf)\]
 * ACLM: A Selective-Denoising based Generative Data Augmentation Approach for Low-Resource Complex NER (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.8.pdf)\]
-* Entity-to-Text based Data Augmentation for various Named Entity Recognition Tasks (ACL 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-acl.578.pdf)\]
+* Entity-to-Text based Data Augmentation for Various Named Entity Recognition Tasks (ACL 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-acl.578.pdf)\]
 * Improving Low-resource Named Entity Recognition with Graph Propagated Data Augmentation (ACL 2023, Short) \[[paper](https://aclanthology.org/2023.acl-short.11.pdf)\]
 * GDA: Generative Data Augmentation Techniques for Relation Extraction Tasks (ACL 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-acl.649.pdf)\]
 * Generating Labeled Data for Relation Extraction: A Meta Learning Approach with Joint GPT-2 Training (ACL 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-acl.727.pdf)\]
 * RE-Matching: A Fine-Grained Semantic Matching Method for Zero-Shot Relation Extraction (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.369.pdf)\]
 * S2ynRE: Two-stage Self-training with Synthetic Data for Low-resource Relation Extraction  (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.455.pdf)\]
+* Improving Unsupervised Relation Extraction by Augmenting Diverse Sentence Pairs (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.745.pdf)\]
+* DAFS: A Domain Aware Few Shot Generative Model for Event Detection (Machine Learning, 2023) \[[paper](https://link.springer.com/article/10.1007/s10994-022-06198-5)\]
 * Enhancing Few-shot NER with Prompt Ordering based Data Augmentation (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.11791)\]
-* STAR: Boosting Low-Resource Event Extraction by Structure-to-Text Data Generation with Large Language Models (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.15090)\]
 * SegMix: A Simple Structure-Aware Data Augmentation Method (arXiv, 2023) \[[paper](https://arxiv.org/abs/2311.09505)\]
-* GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2310.03668)\]
+* Learning to Rank Context for Named Entity Recognition Using a Synthetic Dataset (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.642.pdf)\]
+* Semi-automatic Data Enhancement for Document-Level Relation Extraction with Distant Supervision from Large Language Models (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.334.pdf)\]
+* STAR: Boosting Low-Resource Event Extraction by Structure-to-Text Data Generation with Large Language Models (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.15090)\]
+<!--The last three work are LLM-based DA-->
 
 #### (2) Structured Knowledge (KG & Ontology & Logical Rules)
 * Leveraging FrameNet to Improve Automatic Event Detection (ACL 2016) \[[paper](https://aclanthology.org/P16-1201.pdf)\]
@@ -322,13 +331,13 @@ Few-Shot Document-Level Relation Extraction (EMNLP 2023) \[[paper](https://aclan
 
 
 ### Transfer Learning
-
 * Zero-Shot Transfer Learning for Event Extraction (ACL 2018) \[[paper](https://aclanthology.org/P18-1201.pdf)\]
 * Transfer Learning for Named-Entity Recognition with Neural Networks (LREC 2018) \[[paper](https://aclanthology.org/L18-1708.pdf)\]
 * Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks (NAACL 2019) \[[paper](https://aclanthology.org/N19-1306.pdf)\]
 * Relation Adversarial Network for Low Resource Knowledge Graph Completion (WWW 2020) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380089)\]
 * MZET: Memory Augmented Zero-Shot Fine-grained Named Entity Typing (COLING 2020) \[[paper](https://aclanthology.org/2020.coling-main.7.pdf)\]
 * LearningToAdapt with Word Embeddings: Domain Adaptation of Named Entity Recognition Systems (Information Processing and Management, 2021) \[[paper](https://www.sciencedirect.com/science/article/pii/S0306457321000455)\]
+* One Model for All Domains: Collaborative Domain-Prefx Tuning for Cross-Domain NER (IJCAI 2023) \[[paper](https://www.ijcai.org/proceedings/2023/0559.pdf)\]
 * MANNER: A Variational Memory-Augmented Model for Cross Domain Few-Shot Named Entity Recognition (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.234.pdf)\]
 * Linguistic Representations for Fewer-shot Relation Extraction across Domains (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.414.pdf)\]
 * Few-Shot Relation Extraction With Dual Graph Neural Network Interaction (TNNLS, 2023) \[[paper](https://ieeexplore.ieee.org/document/10143375)\]
@@ -344,6 +353,7 @@ Few-Shot Document-Level Relation Extraction (EMNLP 2023) \[[paper](https://aclan
 * Efficient Zero-shot Event Extraction with Context-Definition Alignment (EMNLP 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-emnlp.531.pdf)\]
 * Few-shot Named Entity Recognition with Self-describing Networks (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.392.pdf)\]
 * Query and Extract: Refining Event Extraction as Type-oriented Binary Decoding (ACL 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-acl.16.pdf)\]
+* ClarET: Pre-training a Correlation-Aware Context-To-Event Transformer for Event-Centric Generation and Classification (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.183.pdf)\]
 * Unleashing Pre-trained Masked Language Model Knowledge for Label Signal Guided Event Detection (DASFAA 2023) \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_42)\]
 * A Multi-Task Semantic Decomposition Framework with Task-specific Pre-training for Few-Shot NER (CIKM 2023) \[[paper](https://dl.acm.org/doi/10.1145/3583780.3614766)\]
 * Continual Contrastive Finetuning Improves Low-Resource Relation Extraction (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.739.pdf)\]
@@ -394,12 +404,16 @@ Few-Shot Document-Level Relation Extraction (EMNLP 2023) \[[paper](https://aclan
 * A Unified MRC Framework for Named Entity Recognition (ACL 2020) \[[paper](https://aclanthology.org/2020.acl-main.519.pdf)\]
 * Event Extraction as Machine Reading Comprehension (EMNLP 2020) \[[paper](https://aclanthology.org/2020.emnlp-main.128.pdf)\]
 * Event Extraction by Answering (Almost) Natural Questions (EMNLP 2020) \[[paper](https://aclanthology.org/2020.emnlp-main.49.pdf)\]
-* Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction (ACL 2021) \[[paper](https://aclanthology.org/2021.acl-long.217/)\]
+* Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction (ACL 2021) \[[paper](https://aclanthology.org/2021.acl-long.217.pdf)\]
 * Structured Prediction as Translation between Augmented Natural Languages (ICLR 2021) \[[paper](https://openreview.net/forum?id=US-TP-xnXI)\]
+* A Unified Generative Framework for Various NER Subtasks (ACL 2021) \[[paper](https://aclanthology.org/2021.acl-long.451.pdf)\]
+* REBEL: Relation Extraction By End-to-end Language Generation (EMNLP 2021, Findings) \[[paper](https://aclanthology.org/2021.findings-emnlp.204.pdf)\]
+* GenIE: Generative Information Extraction (NAACL 2022) \[[paper](https://aclanthology.org/2022.naacl-main.342.pdf)\]
 * Learning to Ask for Data-Efficient Event Argument Extraction (AAAI 2022, Student Abstract) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21686)\]
 * Complex Question Enhanced Transfer Learning for Zero-shot Joint Information Extraction (TASLP, 2023) \[[paper](https://ieeexplore.ieee.org/abstract/document/10214665)\]
 * Weakly-Supervised Questions for Zero-Shot Relation Extraction (EACL 2023) \[[paper](https://aclanthology.org/2023.eacl-main.224.pdf)\]
 * Event Extraction as Question Generation and Answering (ACL 2023, Short) \[[paper](https://aclanthology.org/2023.acl-short.143.pdf)\]
+* Set Learning for Generative Information Extraction (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.806.pdf)\]
 
 ### Prompt-Tuning PLM
 #### (1) Vanilla Prompt-Tuning
@@ -408,9 +422,11 @@ Few-Shot Document-Level Relation Extraction (EMNLP 2023) \[[paper](https://aclan
 * LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.209.pdf)\]
 * COPNER: Contrastive Learning with Prompt Guiding for Few-shot Named Entity Recognition (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.222.pdf)\]
 * Template-free Prompt Tuning for Few-shot NER (NAACL 2022) \[[paper](https://aclanthology.org/2022.naacl-main.420.pdf)\]
+* Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning (NAACL 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-naacl.187.pdf)\]
 * RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-acl.5.pdf)\]
 * Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.466.pdf)\]
 * Dynamic Prefix-Tuning for Generative Template-based Event Extraction (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.358.pdf)\]
+* Good Examples Make A Faster Learner Simple Demonstration-based Learning for Low-resource NER (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.192.pdf)\]
 * Prompt-Learning for Cross-Lingual Relation Extraction (IJCNN 2023) \[[paper](https://arxiv.org/abs/2304.10354)\]
 * DSP: Discriminative Soft Prompts for Zero-Shot Entity and Relation Extraction (ACL 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-acl.339.pdf)\]
 * Contextualized Soft Prompts for Extraction of Event Arguments (ACL 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-acl.266.pdf)\]
@@ -440,6 +456,7 @@ Few-Shot Document-Level Relation Extraction (EMNLP 2023) \[[paper](https://aclan
 * Retrieve-and-Sample: Document-level Event Argument Extraction via Hybrid Retrieval Augmentation (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.17.pdf)\]
 * Easy-to-Hard Learning for Information Extraction (ACL 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-acl.754.pdf)\]
 * DemoSG: Demonstration-enhanced Schema-guided Generation for Low-resource Event Extraction (EMNLP 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-emnlp.121.pdf)\]
+* 2INER: Instructive and In-Context Learning on Few-Shot Named Entity Recognition (EMNLP 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-emnlp.259.pdf)\]
 * Template-Free Prompting for Few-Shot Named Entity Recognition via Semantic-Enhanced Contrastive Learning (TNNLS, 2023) \[[paper](https://ieeexplore.ieee.org/abstract/document/10264144)\]
 * TaxonPrompt: Taxonomy-Aware Curriculum Prompt Learning for Few-Shot Event Classification (KBS, 2023) \[[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000400)\]
 * A Composable Generative Framework based on Prompt Learning for Various Information Extraction Tasks (IEEE Transactions on Big Data, 2023) \[[paper](https://ieeexplore.ieee.org/abstract/document/10130644)\]
@@ -459,7 +476,10 @@ Few-Shot Document-Level Relation Extraction (EMNLP 2023) \[[paper](https://aclan
 * Zero-Shot Information Extraction via Chatting with ChatGPT (arXiv, 2023) \[[paper](https://arxiv.org/abs/2302.10205)\]
 * Global Constraints with Prompting for Zero-Shot Event Argument Classification (EACL 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-eacl.191.pdf)\]
 * Revisiting Large Language Models as Zero-shot Relation Extractors (EMNLP 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-emnlp.459.pdf)\]
+* Empirical Study of Zero-Shot NER with ChatGPT (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.493.pdf)\]
 * AutoKG: Efficient Automated Knowledge Graph Generation for Language Models (IEEE BigData 2023, GTA3 Workshop) \[[paper](https://arxiv.org/abs/2311.14740)\]
+* PromptNER : Prompting For Named Entity Recognition (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.15444)\]
+* Zero-shot Temporal Relation Extraction with ChatGPT (ACL 2023, BioNLP) \[[paper](https://aclanthology.org/2023.bionlp-1.7.pdf)\]
 * Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness (arXiv, 2023) \[[paper](https://arxiv.org/abs/2304.11633)\] 
 * LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.13168)\]
 
@@ -468,11 +488,15 @@ Few-Shot Document-Level Relation Extraction (EMNLP 2023) \[[paper](https://aclan
 * CodeIE: Large Code Generation Models are Better Few-Shot Information Extractors (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.855.pdf)\]
 * ViStruct: Visual Structural Knowledge Extraction via Curriculum Guided Code-Vision Representation (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.824.pdf)\]
 * Retrieval-Augmented Code Generation for Universal Information Extraction (arXiv, 2023) [[paper](https://arxiv.org/abs/2311.02962)\]
+* CodeKGC: Code Language Model for Generative Knowledge Graph Construction (arXiv, 2023) [[paper](https://arxiv.org/abs/2304.09048)\]
+* GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2310.03668)\]
 
 ### In-Context Learning
 * Learning In-context Learning for Named Entity Recognition (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.764.pdf)\]
 * How to Unleash the Power of Large Language Models for Few-shot Relation Extraction? (ACL 2023, SustaiNLP Workshop) [[paper](https://aclanthology.org/2023.sustainlp-1.13.pdf)\]
 * GPT-RE: In-context Learning for Relation Extraction using Large Language Models (EMNLP 2023) [[paper](https://aclanthology.org/2023.emnlp-main.214.pdf)\]
+* In-context Learning for Few-shot Multimodal Named Entity Recognition (EMNLP 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-emnlp.196.pdf)\]
+* Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge (EMNLP 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-emnlp.184.pdf)\]
 * Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples! (EMNLP 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-emnlp.710.pdf)\]
 * Guideline Learning for In-Context Information Extraction (EMNLP 2023) [[paper](https://aclanthology.org/2023.emnlp-main.950.pdf)\]
 * Pipeline Chain-of-Thought: A Prompt Method for Large Language Model Relation Extraction (IALP 2023) [[paper](https://ieeexplore.ieee.org/document/10337264)\]
@@ -484,6 +508,7 @@ Few-Shot Document-Level Relation Extraction (EMNLP 2023) \[[paper](https://aclan
 * Improving Open Information Extraction with Large Language Models: A Study on Demonstration Uncertainty (arXiv, 2023) \[[paper](https://arxiv.org/abs/2309.03433)\]
 * LOKE: Linked Open Knowledge Extraction for Automated Knowledge Graph Construction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2311.09366)\]
 * Zero- and Few-Shots Knowledge Graph Triplet Extraction with Large Language Models (arXiv, 2023) \[[paper](https://arxiv.org/abs/2312.01954)\]
+* Chain-of-Thought Prompt Distillation for Multimodal Named Entity Recognition and Multimodal Relation Extraction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2306.14122v3)\]
 
 <!--### Retrieval-Augmented Prompting-->
 
