@@ -1,7 +1,5 @@
 # Low-resource Information Extraction 🚀
 
-<font color=#FF000 size=4 >**!!!📣 The repository has been redirected to [https://github.com/zjunlp/Low-resource-KEPapers](https://github.com/zjunlp/Low-resource-KEPapers).**</font>
-
 🍎 The repository is a paper set on low-resource information extraction (IE), mainly including NER, RE and EE, which is generally categorized into two paradigms:  
 
 - **Traditional** Low-Resource IE approaches
