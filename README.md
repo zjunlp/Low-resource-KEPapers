@@ -544,6 +544,7 @@ Output for Information Extraction (arXiv, 2024) \[[paper](https://arxiv.org/abs/
 ### Fine-Tuning LLM
 * Fine-Tuning GPT Family (OpenAI, 2023) \[[Documentation](https://platform.openai.com/docs/guides/fine-tuning)\]
 * EventRL: Enhancing Event Extraction with Outcome Supervision for Large Language Models (arXiv, 2024) \[[paper](https://arxiv.org/abs/2402.11430)\]
+* Just Pass Twice: Efficient Token Classification with LLMs for Zero-Shot NER (ACL 2026) \[[paper](https://aclanthology.org/2026.acl-long.526/)\] \[[project](https://github.com/a-3wais/Just-Pass-Twice-NER)\]
 
 
 
